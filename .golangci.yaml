@@ -1,0 +1,61 @@
+issues:
+  include:
+    - EXC0002
+    - EXC0003
+    - EXC0004
+    - EXC0005
+    - EXC0006
+    - EXC0007
+    - EXC0008
+    - EXC0009
+    - EXC0010
+    - EXC0011
+    - EXC0012
+    - EXC0013
+    - EXC0014
+    - EXC0015
+linters:
+  enable:
+    - asciicheck
+    - bidichk
+    - dogsled
+    - errname
+    - errorlint
+    - exhaustive
+    - exportloopref
+    - gocognit
+    - gocritic
+    - godot
+    - godox
+    - gofmt
+    - ifshort
+    - importas
+    - ireturn
+    - lll
+    - misspell
+    - nakedret
+    - nestif
+    - nilerr
+    - nolintlint
+    - predeclared
+    - revive
+    - unconvert
+    - unparam
+    - wastedassign
+    - whitespace
+    - wrapcheck
+    - wsl
+linters-settings:
+  errorlint:
+    errorf: true
+  gocritic:
+    enabled-tags:
+      - diagnostic
+      - experimental
+      - opinionated
+      - performance
+      - style
+  mispell:
+    locale: "US"
+  staticcheck:
+    go: "1.17"
