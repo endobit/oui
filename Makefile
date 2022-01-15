@@ -1,8 +1,10 @@
 .PHONY: test
 test: data.go
-	golangci-lint run
 	go test -v -covermode=count -coverprofile=coverage.out
 
+.PHONY: lint
+lint:
+	golangci-lint run
 
 data.go: oui.txt
 	go build ./cmd/gen
