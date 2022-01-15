@@ -1,6 +1,6 @@
 .PHONY: test
 test: data.go
-	go test -v -covermode=count -coverprofile=coverage.out
+	go test -v -coverprofile=coverage.txt -covermode=count ./...
 
 .PHONY: lint
 lint:
