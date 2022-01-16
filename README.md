@@ -4,5 +4,46 @@
 ![Tag](https://img.shields.io/github/tag/endobit/oui.svg)
 [![Go Report Card](https://goreportcard.com/badge/github.com/endobit/oui)](https://goreportcard.com/report/github.com/endobit/oui)
 
-# oui
-Vendor lookup from MAC prefixes
+# Vendor lookup from MAC prefixes
+
+A Go module that provides methods to lookup the Vendor string of an
+Organizationally Unique Identifier. For Ethernet MACs the OUI is
+encoded in the first 24 bits.
+
+All Vendor lookup methods are static from this
+[database](https://linuxnet.ca/ieee/oui).
+
+---
+
+## Usage
+
+```go
+package main
+
+import (
+	"fmt"
+	"net"
+
+	"github.com/endobit/oui"
+)
+
+func main() {
+	const addr = "00:00:0f:01:02:03"
+
+	// Lookup the vendor of an Ethernet MAC.
+
+	fmt.Println(oui.Vendor(addr))
+
+	// Or, lookup the vendor of a net.HardwareAddr.
+
+	mac, err := net.ParseMAC(addr)
+	if err != nil {
+		t.Errorf("%v", mac)
+	}
+
+	fmt.Println(oui.VendorFromMAC(mac))
+}
+```
+
+
+
