@@ -44,9 +44,3 @@ func main() {
 	fmt.Println(oui.VendorFromMAC(mac))
 }
 ```
-
-
-
-
-=======
->>>>>>> develop
