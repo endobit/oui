@@ -9,6 +9,7 @@ import (
 
 func TestVendor(t *testing.T) {
 	tests := map[string]bool{
+		"ff:ff":             false,
 		"ff:ff:ff":          false,
 		"00:00:0F":          true,
 		"00:00:0f":          true,
