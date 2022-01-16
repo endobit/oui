@@ -10,8 +10,8 @@ A Go module that provides methods to lookup the Vendor string of an
 Organizationally Unique Identifier. For Ethernet MACs the OUI is
 encoded in the first 24 bits.
 
-All Vendor lookup methods are static from this
-[database](https://linuxnet.ca/ieee/oui).
+Vendor lookup is done statically from a code generated `struct` using
+a sanitized oui [database](https://linuxnet.ca/ieee/oui).
 
 ---
 
@@ -47,3 +47,6 @@ func main() {
 
 
 
+
+=======
+>>>>>>> develop
