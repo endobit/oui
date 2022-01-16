@@ -13,8 +13,8 @@ import (
 	"text/template"
 )
 
-var codeTemplate = `// generated code - do not edit
-package {{ .Package }}
+var codeTemplate = `
+package {{ .Package }} // generated code - do not edit
 
 type ouiDB struct {
 	ouis    map[string]uint
