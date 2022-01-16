@@ -1,9 +1,9 @@
-// Package oui provides methods to lookup the Vendor of an
-// Organizationally Unique Identifier of a MAC address. The OUI is
-// encoded in the first 24 bits of the address.
+// Package oui provides methods to lookup the Vendor string of an
+// Organizationally Unique Identifier. For Ethernet MACs the OUI is
+// the first 24 bits.
 //
-// All Vendor lookup methods are static. The OUI dataset is from:
-//     https://linuxnet.ca/ieee/oui
+// Vendor lookup is done statically from a code generated `struct`
+// using a sanitized oui database (https://linuxnet.ca/ieee/oui).
 package oui
 
 import (
