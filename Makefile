@@ -6,16 +6,16 @@ test: data.go
 lint:
 	golangci-lint run
 
-data.go: oui.txt
+data.go: oui.csv
 	go build ./cmd/gen
 	go generate .
 
-oui.txt:
-	curl https://linuxnet.ca/ieee/oui/nmap-mac-prefixes -o $@
+oui.csv:
+	curl https://standards-oui.ieee.org/oui/oui.csv -o oui.csv
 
 .PHONY: nuke
 nuke:
-	-rm oui.txt
+	-rm oui.csv
 
 .PHONY: clean
 clean:

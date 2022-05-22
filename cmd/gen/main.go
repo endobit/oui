@@ -1,14 +1,13 @@
 package main
 
 import (
-	"bufio"
 	"bytes"
+	"encoding/csv"
 	"flag"
 	"go/format"
 	"io"
 	"log"
 	"os"
-	"regexp"
 	"strings"
 	"text/template"
 )
@@ -54,7 +53,7 @@ func main() {
 		pkg     string
 	)
 
-	flag.StringVar(&inFile, "in", "oui.txt", "name of the oui mac file")
+	flag.StringVar(&inFile, "in", "oui.csv", "name of the oui mac file")
 	flag.StringVar(&outFile, "out", "data.go", "name of the output file")
 	flag.StringVar(&pkg, "pkg", "oui", "name of the go package")
 	flag.Parse()
@@ -109,19 +108,26 @@ func newTemplateData(r io.Reader) *templateData {
 	ouis := make(map[string]string)
 	idmap := make(map[string]uint)
 
-	s := bufio.NewScanner(r)
-	s.Split(bufio.ScanLines)
+	c := csv.NewReader(r)
 
-	re := regexp.MustCompile(`\s+`)
+	_, err := c.Read() // skip header
+	if err != nil {
+		panic(err)
+	}
 
-	for s.Scan() {
-		tokens := re.Split(s.Text(), -1)
-		if len(tokens) != 2 || len(tokens[0]) != 6 {
-			continue
+	for {
+		record, err := c.Read()
+		if err == io.EOF {
+			break
+		}
+		if err != nil {
+			panic(err)
 		}
 
-		o := strings.ToLower(tokens[0])
-		v := tokens[1]
+		o := strings.ToLower(record[1])
+
+		v := strings.TrimSpace(record[2])
+		v = strings.ReplaceAll(v, `"`, "")
 
 		if prev, ok := ouis[o]; ok { // 080030 is a known duplicate
 			log.Printf("Warning %q:%q is already registered to %q", o, v, prev)
