@@ -38,7 +38,8 @@ func main() {
 
 	mac, err := net.ParseMAC(addr)
 	if err != nil {
-		t.Errorf("%v", mac)
+		fmt.Println("%q not a mac", addr)
+		panic(err)
 	}
 
 	fmt.Println(oui.VendorFromMAC(mac))
