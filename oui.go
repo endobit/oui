@@ -11,7 +11,7 @@ import (
 	"strings"
 )
 
-//go:generate ./gen
+//go:generate mage -v build
 
 // Vendor returns the Vendor of the OUI s, or the empty string if
 // not found. The value s can be either just the OUI or a mac address,
