@@ -37,17 +37,16 @@ func Vendor(s string) string {
 
 	s = strings.ToLower(s)
 
-	id, ok := database.ouis[s]
+	id, ok := ouis[s]
 	if !ok {
 		return ""
 	}
 
-	v, ok := database.vendors[id]
-	if !ok {
+	if id > len(vendors) {
 		return ""
 	}
 
-	return v
+	return vendors[id]
 }
 
 // VendorFromMAC returns the hardware vendor of a net.HardwareAddr.

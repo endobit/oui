@@ -8,6 +8,7 @@ import (
 	"io"
 	"log"
 	"os"
+	"regexp"
 	"strings"
 	"text/template"
 
@@ -17,34 +18,29 @@ import (
 var codeTemplate = `
 package oui // generated code - do not edit
 
-type ouiDB struct {
-	ouis    map[string]uint
-	vendors map[uint]string
-}
-
-var database = ouiDB{
-    ouis: map[string]uint{
+var ouis = map[string]int{
 {{- range .Entries }}
 "{{ .OUI }}": {{ .VendorID }}, // {{ .Vendor }}
 {{- end }}
-    },
-    vendors: map[uint]string{
-{{- range $key, $value := .Vendors }}
-{{ $value }}: "{{ $key }}",
-{{- end }}
-    },
 }
+
+var vendors = []string{
+{{- range .Vendors }}
+"{{ . }}",
+{{- end }}
+}
+
 `
 
 type templateData struct {
 	Entries []entry
-	Vendors map[string]uint
+	Vendors []string
 }
 
 type entry struct {
 	OUI      string
+	VendorID int
 	Vendor   string
-	VendorID uint
 }
 
 func generate(src, dst string) error {
@@ -82,6 +78,7 @@ func generate(src, dst string) error {
 	}
 
 	if _, err := fout.Write(code); err != nil {
+		// if _, err := fout.Write(buf.Bytes()); err != nil {
 		return err
 	}
 
@@ -89,11 +86,13 @@ func generate(src, dst string) error {
 }
 
 func newTemplateData(r io.Reader) *templateData {
-	var entries []entry
+	var (
+		entries []entry
+		vendors []string
+	)
 
-	id := uint(0)
-	ouis := make(map[string]string)
-	idmap := make(map[string]uint)
+	ouiMap := make(map[string]string)
+	vendorMap := make(map[string]int)
 
 	c := csv.NewReader(r)
 
@@ -102,7 +101,7 @@ func newTemplateData(r io.Reader) *templateData {
 		panic(err)
 	}
 
-	for {
+	for id := 0; ; {
 		record, err := c.Read()
 		if errors.Is(err, io.EOF) {
 			break
@@ -116,24 +115,42 @@ func newTemplateData(r io.Reader) *templateData {
 
 		v := strings.TrimSpace(record[2])
 		v = strings.ReplaceAll(v, `"`, "")
+		v = simplifyName(v)
 
-		if prev, ok := ouis[o]; ok { // 080030 is a known duplicate
+		if prev, ok := ouiMap[o]; ok { // 080030 is a known duplicate
 			log.Printf("Warning %q:%q is already registered to %q", o, v, prev)
 			continue
 		}
 
-		ouis[o] = v
+		ouiMap[o] = v
 
-		if _, ok := idmap[v]; !ok {
-			idmap[v] = id
+		if _, ok := vendorMap[v]; !ok {
+			vendors = append(vendors, v)
+			vendorMap[v] = id
 			id++
 		}
 
-		entries = append(entries, entry{OUI: o, Vendor: v, VendorID: idmap[v]})
+		entries = append(entries, entry{OUI: o, Vendor: v, VendorID: vendorMap[v]})
 	}
 
 	return &templateData{
 		Entries: entries,
-		Vendors: idmap,
+		Vendors: vendors,
 	}
+}
+
+var (
+	llcRegex  = regexp.MustCompile(`(?i),?\s*(llc|ltd|limited|inc|incorporated)\.?$`)
+	coRegex   = regexp.MustCompile(`(?i),?\s*(co|company|corp|corporation)\.?$`)
+	gmbhRegex = regexp.MustCompile(`(?i),?\s*gmbh\.?$`)
+)
+
+func simplifyName(name string) string {
+	b := []byte(name)
+
+	b = llcRegex.ReplaceAll(b, []byte{})
+	b = coRegex.ReplaceAll(b, []byte{})
+	b = gmbhRegex.ReplaceAll(b, []byte{})
+
+	return string(b)
 }
