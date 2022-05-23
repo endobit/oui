@@ -3,6 +3,7 @@ package main
 import (
 	"bytes"
 	"encoding/csv"
+	"errors"
 	"flag"
 	"go/format"
 	"io"
@@ -117,9 +118,10 @@ func newTemplateData(r io.Reader) *templateData {
 
 	for {
 		record, err := c.Read()
-		if err == io.EOF {
+		if errors.Is(err, io.EOF) {
 			break
 		}
+
 		if err != nil {
 			panic(err)
 		}
