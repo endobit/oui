@@ -4,17 +4,18 @@ import (
 	"bytes"
 	"encoding/csv"
 	"errors"
-	"flag"
 	"go/format"
 	"io"
 	"log"
 	"os"
 	"strings"
 	"text/template"
+
+	"github.com/magefile/mage/mg"
 )
 
 var codeTemplate = `
-package {{ .Package }} // generated code - do not edit
+package oui // generated code - do not edit
 
 type ouiDB struct {
 	ouis    map[string]uint
@@ -36,7 +37,6 @@ var database = ouiDB{
 `
 
 type templateData struct {
-	Package string
 	Entries []entry
 	Vendors map[string]uint
 }
@@ -47,59 +47,45 @@ type entry struct {
 	VendorID uint
 }
 
-func main() {
-	var (
-		inFile  string
-		outFile string
-		pkg     string
-	)
+func generate(src, dst string) error {
+	mg.Deps(download)
 
-	flag.StringVar(&inFile, "in", "oui.csv", "name of the oui mac file")
-	flag.StringVar(&outFile, "out", "data.go", "name of the output file")
-	flag.StringVar(&pkg, "pkg", "oui", "name of the go package")
-	flag.Parse()
-
-	fin, err := os.Open(inFile)
+	fin, err := os.Open(src)
 	if err != nil {
-		log.Fatalf("cannot open %q: %v", inFile, err)
+		return err
 	}
-
 	defer fin.Close()
 
 	data := newTemplateData(fin)
-	data.Package = pkg
 
 	tmpl, err := template.New("oui").Parse(codeTemplate)
 	if err != nil {
-		log.Printf("template parse error: %v", err)
-		return
+		return err
 	}
 
 	var buf bytes.Buffer
 
 	if err := tmpl.ExecuteTemplate(&buf, "oui", data); err != nil {
-		log.Printf("template execute error: %v", err)
-		return
+		return err
 	}
 
-	fout, err := os.Create(outFile)
+	fout, err := os.Create(dst)
 	if err != nil {
-		log.Printf("cannot open %q: %v", outFile, err)
-		return
+		return err
 	}
 
 	defer fout.Close()
 
 	code, err := format.Source(buf.Bytes())
 	if err != nil {
-		log.Printf("cannot format code: %v", err)
-		return
+		return err
 	}
 
 	if _, err := fout.Write(code); err != nil {
-		log.Printf("cannot write code: %v", err)
-		return
+		return err
 	}
+
+	return nil
 }
 
 func newTemplateData(r io.Reader) *templateData {
