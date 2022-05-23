@@ -2,8 +2,9 @@
 // Organizationally Unique Identifier. For Ethernet MACs the OUI is
 // the first 24 bits.
 //
-// Vendor lookup is done statically from a code generated `struct`
-// using a sanitized oui database (https://linuxnet.ca/ieee/oui).
+// Vendor lookup in performed on a code generated data set. The static
+// data is generated from the CSV file maintained by the IEEE.
+// (https://standards-oui.ieee.org/oui/oui.csv).
 package oui
 
 import (
@@ -11,7 +12,7 @@ import (
 	"strings"
 )
 
-//go:generate ./gen
+//go:generate mage -v build
 
 // Vendor returns the Vendor of the OUI s, or the empty string if
 // not found. The value s can be either just the OUI or a mac address,
