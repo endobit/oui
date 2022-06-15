@@ -105,4 +105,5 @@ func data() error {
 
 func init() {
 	os.Setenv("MAGEFILE_ENABLE_COLOR", "1")
+	os.Setenv("MAGEFILE_VERBOSE", "1")
 }

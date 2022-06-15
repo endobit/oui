@@ -9,6 +9,8 @@ import (
 	"log"
 	"os"
 	"regexp"
+	"sort"
+	"strconv"
 	"strings"
 	"text/template"
 
@@ -37,10 +39,25 @@ type templateData struct {
 	Vendors []string
 }
 
+type OUI string
+
 type entry struct {
-	OUI      string
+	OUI      OUI
 	VendorID int
 	Vendor   string
+}
+
+func (o OUI) String() string {
+	return string(o)
+}
+
+func (o OUI) Int() int64 {
+	n, err := strconv.ParseInt(o.String(), 16, 64)
+	if err != nil {
+		panic(err)
+	}
+
+	return n
 }
 
 func generate(src, dst string) error {
@@ -130,8 +147,12 @@ func newTemplateData(r io.Reader) *templateData {
 			id++
 		}
 
-		entries = append(entries, entry{OUI: o, Vendor: v, VendorID: vendorMap[v]})
+		entries = append(entries, entry{OUI: OUI(o), Vendor: v, VendorID: vendorMap[v]})
 	}
+
+	sort.Slice(entries, func(i, j int) bool {
+		return entries[i].OUI.Int() < entries[j].OUI.Int()
+	})
 
 	return &templateData{
 		Entries: entries,
