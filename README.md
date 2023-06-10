@@ -46,3 +46,10 @@ func main() {
 	fmt.Println(oui.VendorFromMAC(mac))
 }
 ```
+
+## Building
+
+This package uses [mage](https://magefile.org/).
+
+Type `mage` for a list of targets. `mage build` will regenerate the static OUI
+data.
