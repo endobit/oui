@@ -1,4 +1,4 @@
-[![GitHub Actions](https://img.shields.io/github/workflow/status/endobit/oui/test)](https://github.com/endobit/oui/actions?query=workflow%3Atest)
+[![GitHub Actions](https://img.shields.io/github/actions/workflow/status/endobit/oui/test.yaml)](https://github.com/endobit/oui/actions?query=workflow%3Atest)
 [![Go Report Card](https://goreportcard.com/badge/github.com/endobit/oui)](https://goreportcard.com/report/github.com/endobit/oui)
 [![Codecov](https://codecov.io/gh/endobit/oui/branch/main/graph/badge.svg)](https://codecov.io/gh/endobit/oui)
 [![GoDoc](https://godoc.org/github.com/golang/gddo?status.svg)](https://pkg.go.dev/github.com/endobit/oui)
@@ -46,3 +46,10 @@ func main() {
 	fmt.Println(oui.VendorFromMAC(mac))
 }
 ```
+
+## Building
+
+This package uses [mage](https://magefile.org/).
+
+Type `mage` for a list of targets. `mage build` will regenerate the static OUI
+data.
