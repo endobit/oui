@@ -67,14 +67,22 @@ func download() error {
 
 	log.Printf("downloading %q", ouiURL)
 
-	resp, err := http.Get(ouiURL)
+	req, err := http.NewRequest(http.MethodGet, ouiURL, nil)
+	if err != nil {
+		return err
+	}
+
+	// Because default Go-http-client/1.1 will result in 418 error
+	req.Header.Set("User-Agent", "Mage-oui-parser")
+
+	resp, err := http.DefaultClient.Do(req)
 	if err != nil {
 		return err
 	}
 	defer resp.Body.Close()
 
 	if resp.StatusCode != 200 {
-		return fmt.Errorf("download failed: %w", err)
+		return fmt.Errorf("download failed: bad status code=%s", resp.Status)
 	}
 
 	fout, err := os.Create("oui.csv")
