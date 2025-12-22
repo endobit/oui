@@ -25,8 +25,6 @@ func Build() {
 
 // Lint runs golangci-lint
 func Lint() error {
-	mg.Deps(Build)
-
 	return sh.RunV("golangci-lint", "run", "--skip-dirs", "magefiles")
 }
 
@@ -81,7 +79,7 @@ func download() error {
 	}
 	defer resp.Body.Close()
 
-	if resp.StatusCode != 200 {
+	if resp.StatusCode != http.StatusOK {
 		return fmt.Errorf("download failed: bad status code=%s", resp.Status)
 	}
 
@@ -99,19 +97,7 @@ func download() error {
 	return nil
 }
 
-func data() error {
-	old, err := target.Path("data.go", "oui.csv")
-	if err != nil {
-		return err
-	}
-
-	if old {
-		return download()
-	}
-	return nil
-}
-
 func init() {
-	os.Setenv("MAGEFILE_ENABLE_COLOR", "1")
-	os.Setenv("MAGEFILE_VERBOSE", "1")
+	_ = os.Setenv("MAGEFILE_ENABLE_COLOR", "1")
+	_ = os.Setenv("MAGEFILE_VERBOSE", "1")
 }
