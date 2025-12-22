@@ -72,7 +72,7 @@ func download() error {
 	defer resp.Body.Close()
 
 	if resp.StatusCode != http.StatusOK {
-		return fmt.Errorf("download failed: %v", resp.StatusCode)
+		return fmt.Errorf("download failed: bad status code=%s", resp.Status)
 	}
 
 	fout, err := os.Create("oui.csv")
