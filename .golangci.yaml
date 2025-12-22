@@ -1,61 +1,87 @@
-issues:
-  include:
-    - EXC0002
-    - EXC0003
-    - EXC0004
-    - EXC0005
-    - EXC0006
-    - EXC0007
-    - EXC0008
-    - EXC0009
-    - EXC0010
-    - EXC0011
-    - EXC0012
-    - EXC0013
-    - EXC0014
-    - EXC0015
+version: '2'
 linters:
+  exclusions:
+    presets:
+      - comments
+      - common-false-positives
+      - std-error-handling
   enable:
     - asciicheck
-    - bidichk
+    - bodyclose
+    - copyloopvar
     - dogsled
+    - dupl
+    - dupword
+    - errchkjson
     - errname
     - errorlint
-    - exhaustive
-    - exportloopref
+    - exptostd
+    - forcetypeassert
+    - funcorder
+    - gocheckcompilerdirectives
     - gocognit
+    - goconst
     - gocritic
-    - godot
-    - godox
-    - gofmt
-    - ifshort
+    - goprintffuncname
+    - gosec
+    - grouper
+    - iface
     - importas
-    - ireturn
+    - intrange
     - lll
+    - loggercheck
+    - makezero
+    - mirror
     - misspell
+    - musttag
     - nakedret
     - nestif
     - nilerr
+    - nilnesserr
+    - nilnil
+    - nlreturn
     - nolintlint
-    - predeclared
+    - nosprintfhostport
+    - perfsprint
+    - prealloc
+    - reassign
     - revive
+    - rowserrcheck
+    - sloglint
+    - tagalign
+    - testpackage
+    - thelper
     - unconvert
     - unparam
+    - usestdlibvars
+    - usetesting
+    - varnamelen
     - wastedassign
     - whitespace
-    - wrapcheck
-    - wsl
-linters-settings:
-  errorlint:
-    errorf: true
-  gocritic:
-    enabled-tags:
-      - diagnostic
-      - experimental
-      - opinionated
-      - performance
-      - style
-  mispell:
-    locale: "US"
-  staticcheck:
-    go: "1.17"
+    - wsl_v5
+  settings:
+    revive:
+      rules:
+        - name: redefines-builtin-id
+          disabled: true # redundant, handled by gocritic
+    gocritic:
+      disabled-checks:
+        - commentedOutCode
+        - whyNoLint
+      enabled-tags:
+        - diagnostic
+        - experimental
+        - opinionated
+        - performance
+        - style
+    misspell:
+      locale: US
+    nolintlint:
+      require-specific: true
+    sloglint:
+      msg-style: lowercased
+      key-naming-case: snake
+    varnamelen:
+      max-distance: 20
+      ignore-decls:
+        - i int
