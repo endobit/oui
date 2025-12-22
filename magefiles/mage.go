@@ -25,7 +25,7 @@ func Build() {
 
 // Lint runs golangci-lint
 func Lint() error {
-	return sh.RunV("golangci-lint", "run", "--skip-dirs", "magefiles")
+	return sh.RunV("golangci-lint", "run")
 }
 
 // Test runs go test with coverage
@@ -65,7 +65,7 @@ func download() error {
 
 	log.Printf("downloading %q", ouiURL)
 
-	req, err := http.NewRequest(http.MethodGet, ouiURL, nil)
+	req, err := http.NewRequest(http.MethodGet, ouiURL, http.NoBody)
 	if err != nil {
 		return err
 	}
