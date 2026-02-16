@@ -112,7 +112,7 @@ func newTemplateData(r io.Reader) *templateData {
 		panic(err)
 	}
 
-	for { //nolint:varnamelen
+	for {
 		record, err := c.Read()
 		if errors.Is(err, io.EOF) {
 			break
