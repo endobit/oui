@@ -3,16 +3,13 @@
 [![Codecov](https://codecov.io/gh/endobit/oui/branch/main/graph/badge.svg)](https://codecov.io/gh/endobit/oui)
 [![GoDoc](https://godoc.org/github.com/golang/gddo?status.svg)](https://pkg.go.dev/github.com/endobit/oui)
 
-
 # Vendor lookup from MAC prefixes
 
-A Go module that provides methods to lookup the Vendor string of an
-Organizationally Unique Identifier. For Ethernet MACs the OUI is
-encoded in the first 24 bits.
+A Go module that provides methods to lookup the Vendor string of an Organizationally Unique
+Identifier. For Ethernet MACs the OUI is encoded in the first 24 bits.
 
-Vendor lookup is done statically using generated code. Code is
-generated based in the IEEE registration
-[database](https://standards-oui.ieee.org/oui/oui.csv).
+Vendor lookup is done statically using generated code. Code is generated based in the IEEE
+registration [database](https://standards-oui.ieee.org/oui/oui.csv).
 
 ---
 
@@ -39,7 +36,7 @@ func main() {
 
 	mac, err := net.ParseMAC(addr)
 	if err != nil {
-		fmt.Println("%q not a mac", addr)
+		fmt.Printf("%q not a mac\n", addr)
 		panic(err)
 	}
 
@@ -51,5 +48,4 @@ func main() {
 
 This package uses [mage](https://magefile.org/).
 
-Type `mage` for a list of targets. `mage build` will regenerate the static OUI
-data.
+Type `mage` for a list of targets. `mage build` will regenerate the static OUI data.
