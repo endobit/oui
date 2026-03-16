@@ -3268,7 +3268,7 @@ const (
 	vendor000cdb = "Brocade Communications Systems"
 	vendor000cdc = "BECS Technology"
 	vendor000cdd = "AOS technologies AG"
-	vendor000cde = "ABB STOTZ-KONTAKT"
+	vendor000cde = "ABB AG"
 	vendor000cdf = "JAI Manufacturing"
 	vendor000ce0 = "Trek Diagnostics"
 	vendor000ce1 = "The Open Group"
@@ -4773,7 +4773,7 @@ const (
 	vendor0012bc = "Echolab"
 	vendor0012bd = "Avantec Manufacturing"
 	vendor0012be = "Astek"
-	vendor0012bf = "Arcadyan Technology"
+	vendor0012bf = "Arcadyan"
 	vendor0012c0 = "HotLava Systems"
 	vendor0012c1 = "Check Point Software Technologies"
 	vendor0012c2 = "Apex Electronics Factory"
@@ -5892,7 +5892,7 @@ const (
 	vendor00171b = "Innovation Lab"
 	vendor00171c = "NT MicroSystems"
 	vendor00171d = "DIGIT"
-	vendor00171e = "Theo Benning GmbH & Co. KG"
+	vendor00171e = "Benning Elektrotechnik und Elektronik GmbH & Co. KG"
 	vendor00171f = "IMV"
 	vendor001720 = "Image Sensing Systems"
 	vendor001721 = "FITRE S.p.A."
@@ -6672,7 +6672,7 @@ const (
 	vendor001a27 = "Ubistar"
 	vendor001a28 = "ASWT Co., LTD. Taiwan Branch H.K."
 	vendor001a29 = "Johnson Outdoors Marine Electronics d/b/a Minnkota"
-	vendor001a2a = "Arcadyan Technology"
+	vendor001a2a = "Arcadyan"
 	vendor001a2b = "Ayecom Technology"
 	vendor001a2c = "SATEC"
 	vendor001a2d = "The Navvo Group"
@@ -7423,7 +7423,7 @@ const (
 	vendor001d16 = "SFR"
 	vendor001d17 = "Digital Sky"
 	vendor001d18 = "Power Innovation"
-	vendor001d19 = "Arcadyan Technology"
+	vendor001d19 = "Arcadyan"
 	vendor001d1a = "OvisLink S.A."
 	vendor001d1b = "Sangean Electronics"
 	vendor001d1c = "Gennet s.a."
@@ -8942,7 +8942,7 @@ const (
 	vendor002305 = "Cisco Systems"
 	vendor002306 = "ALPSALPINE CO,."
 	vendor002307 = "FUTURE INNOVATION TECH"
-	vendor002308 = "Arcadyan Technology"
+	vendor002308 = "Arcadyan"
 	vendor002309 = "Janam Technologies"
 	vendor00230a = "ARBURG GmbH & Co KG"
 	vendor00230b = "Commscope"
@@ -9361,7 +9361,7 @@ const (
 	vendor0024ab = "A7 Engineering"
 	vendor0024ac = "Hangzhou DPtech Technologies"
 	vendor0024ad = "Adolf Thies Gmbh & Co. KG"
-	vendor0024ae = "IDEMIA FRANCE SAS"
+	vendor0024ae = "IDEMIA PUBLIC SECURITY FRANCE"
 	vendor0024af = "Dish Technologies"
 	vendor0024b0 = "ESAB AB"
 	vendor0024b1 = "Coulomb Technologies"
@@ -9771,7 +9771,7 @@ const (
 	vendor002648 = "Emitech"
 	vendor00264a = "Apple"
 	vendor00264c = "Shanghai DigiVision Technology"
-	vendor00264d = "Arcadyan Technology"
+	vendor00264d = "Arcadyan"
 	vendor00264e = "r2p"
 	vendor00264f = "Krüger &Gothe"
 	vendor002650 = "2Wire"
@@ -11162,6 +11162,7 @@ const (
 	vendor00763d = "Veea"
 	vendor007686 = "Cisco Systems"
 	vendor0076b1 = "Somfy-Protect By Myfox SAS"
+	vendor0076b6 = "Ford Motor"
 	vendor00778d = "Cisco Systems"
 	vendor0077e4 = "Nokia Solutions and Networks GmbH & Co. KG"
 	vendor007839 = "Nokia"
@@ -11176,6 +11177,7 @@ const (
 	vendor007dfa = "Volkswagen Group of America"
 	vendor007e56 = "China Dragon Technology"
 	vendor007e95 = "Cisco Systems"
+	vendor007f1d = "Fantasia Trading"
 	vendor007f28 = "Actiontec Electronics"
 	vendor008000 = "MULTITECH SYSTEMS"
 	vendor008001 = "PERIPHONICS"
@@ -13932,6 +13934,7 @@ const (
 	vendor08cca7 = "Cisco Systems"
 	vendor08cd9b = "samtec automotive electronics & software"
 	vendor08ce94 = "EM Microelectronic"
+	vendor08d01e = "Juniper Networks"
 	vendor08d09f = "Cisco Systems"
 	vendor08d0b7 = "Qingdao Hisense Communications"
 	vendor08d1f9 = "Espressif"
@@ -14152,6 +14155,7 @@ const (
 	vendor0c6ac4 = "Apple"
 	vendor0c6ae6 = "Stanley Security Solutions"
 	vendor0c6e4f = "PrimeVOLT"
+	vendor0c6f8b = "Apple"
 	vendor0c6f9c = "Shaw Communications"
 	vendor0c7043 = "Sony Interactive Entertainment"
 	vendor0c704a = "HUAWEI TECHNOLOGIES"
@@ -14517,6 +14521,7 @@ const (
 	vendor103917 = "Samsung Electronics"
 	vendor10394e = "Hisense broadband multimedia technology"
 	vendor1039e9 = "Juniper Networks"
+	vendor103a5d = "Emerson"
 	vendor103b59 = "Samsung Electronics"
 	vendor103c59 = "zte"
 	vendor103d0a = "Hui Zhou Gaoshengda Technology"
@@ -14539,6 +14544,7 @@ const (
 	vendor104780 = "HUAWEI TECHNOLOGIES"
 	vendor1047e7 = "Shenzhen YOUHUA Technology"
 	vendor1048b1 = "Beijing Duokan Technology"
+	vendor10490e = "HUAWEI TECHNOLOGIES"
 	vendor104963 = "HARTING K.K."
 	vendor104a7d = "Intel Corporate"
 	vendor104b46 = "Mitsubishi Electric"
@@ -14741,6 +14747,7 @@ const (
 	vendor10c07c = "Blu-ray Disc Association"
 	vendor10c0d5 = "HOLOEYE Photonics AG"
 	vendor10c172 = "HUAWEI TECHNOLOGIES"
+	vendor10c197 = "Xiaomi Communications"
 	vendor10c22f = "China Entropy"
 	vendor10c25a = "Vantiva USA"
 	vendor10c2ba = "UTT"
@@ -14804,6 +14811,7 @@ const (
 	vendor10e4af = "APR"
 	vendor10e4c2 = "Samsung Electronics"
 	vendor10e66b = "Kaon Broadband"
+	vendor10e676 = "Cisco Systems"
 	vendor10e68f = "KWANGSUNG ELECTRONICS KOREA"
 	vendor10e6ae = "Source Technologies"
 	vendor10e77a = "STMicrolectronics International NV"
@@ -14858,6 +14866,7 @@ const (
 	vendor140808 = "Espressif"
 	vendor1409b4 = "zte"
 	vendor1409dc = "HUAWEI TECHNOLOGIES"
+	vendor140a02 = "SHENZHEN BILIAN ELECTRONIC CO.，"
 	vendor140a29 = "Tiinlab"
 	vendor140ac5 = "Amazon Technologies"
 	vendor140b9e = "Samsung Electronics"
@@ -15452,7 +15461,7 @@ const (
 	vendor188219 = "Alibaba Cloud Computing"
 	vendor18828c = "Arcadyan"
 	vendor188331 = "Samsung Electronics"
-	vendor1883bf = "Arcadyan Technology"
+	vendor1883bf = "Arcadyan"
 	vendor188410 = "CoreTrust"
 	vendor1884c1 = "Guangzhou Shiyuan Electronic Technology"
 	vendor188637 = "INGRAM MICRO SERVICES"
@@ -15500,6 +15509,7 @@ const (
 	vendor189e2d = "Allwinner Technology"
 	vendor189ead = "Shenzhen Chengqian Information Technology"
 	vendor189efc = "Apple"
+	vendor18a084 = "Apple"
 	vendor18a28a = "Essel-T"
 	vendor18a3e8 = "Fiberhome Telecommunication Technologies"
 	vendor18a4a9 = "Vanu"
@@ -15539,6 +15549,7 @@ const (
 	vendor18b6f7 = "NEW POS TECHNOLOGY"
 	vendor18b79e = "Invoxia"
 	vendor18b81f = "Commscope"
+	vendor18b842 = "Apple"
 	vendor18b905 = "Hong Kong Bouffalo Lab"
 	vendor18b96e = "Dongguan Liesheng Electronic"
 	vendor18bb1c = "Huawei Device"
@@ -15631,6 +15642,7 @@ const (
 	vendor18f292 = "Shannon Systems"
 	vendor18f46a = "Hon Hai Precision Ind."
 	vendor18f46b = "Telenor Connexion AB"
+	vendor18f58b = "GlobalReach Technology EMEA"
 	vendor18f643 = "Apple"
 	vendor18f650 = "Multimedia Pacific"
 	vendor18f697 = "Axiom Memory Solutions"
@@ -15963,7 +15975,7 @@ const (
 	vendor1cc3ab = "Espressif"
 	vendor1cc3eb = "GUANGDONG OPPO MOBILE TELECOMMUNICATIONS"
 	vendor1cc586 = "Absolute Acoustics"
-	vendor1cc63c = "Arcadyan Technology"
+	vendor1cc63c = "Arcadyan"
 	vendor1cc72d = "Shenzhen Huapu Digital"
 	vendor1cc8c1 = "HongKong YiTong Technology"
 	vendor1cc992 = "Honor Device"
@@ -15995,6 +16007,7 @@ const (
 	vendor1ce192 = "Qisda"
 	vendor1ce209 = "Apple"
 	vendor1ce2cc = "Texas Instruments"
+	vendor1ce4dd = "Technicolor (China) Technology"
 	vendor1ce504 = "HUAWEI TECHNOLOGIES"
 	vendor1ce57f = "Samsung Electronics"
 	vendor1ce61d = "Samsung Electronics"
@@ -16152,6 +16165,7 @@ const (
 	vendor20406a = "AMPAK Technology"
 	vendor20415a = "Smarteh d.o.o."
 	vendor204181 = "ESYSE GmbH Embedded Systems Engineering"
+	vendor2041bc = "ANY Electronics"
 	vendor2043a8 = "Espressif"
 	vendor20443a = "Schneider Electric Asia Pacific"
 	vendor204441 = "Remote Solution"
@@ -16314,6 +16328,7 @@ const (
 	vendor20af1b = "SteelSeries ApS"
 	vendor20b001 = "Vantiva Technologies Belgium"
 	vendor20b0f7 = "Enclustra"
+	vendor20b37f = "IEEE Registration Authority"
 	vendor20b399 = "Enterasys"
 	vendor20b5c6 = "Mimosa Networks"
 	vendor20b730 = "TeconGroup"
@@ -16632,6 +16647,7 @@ const (
 	vendor247d4d = "Texas Instruments"
 	vendor247e12 = "Cisco Systems"
 	vendor247e51 = "zte"
+	vendor247e7f = "D-Fend Solutions A.D"
 	vendor247f20 = "Sagemcom Broadband SAS"
 	vendor247f3c = "HUAWEI TECHNOLOGIES"
 	vendor248000 = "Westcontrol AS"
@@ -17042,6 +17058,7 @@ const (
 	vendor2884fa = "SHARP"
 	vendor28852d = "Touch Networks"
 	vendor2885bb = "Zen Exim Pvt."
+	vendor28875f = "Annapurna labs"
 	vendor288761 = "LG Innotek"
 	vendor2887ba = "TP-Link Systems"
 	vendor288915 = "CashGuard Sverige AB"
@@ -17301,6 +17318,7 @@ const (
 	vendor2c1b3a = "Hui Zhou Gaoshengda Technology"
 	vendor2c1bc8 = "Hunan Topview Network System"
 	vendor2c1cf6 = "Alien Green"
+	vendor2c1cf7 = "Apple"
 	vendor2c1db8 = "Commscope"
 	vendor2c1e4f = "Chengdu Qianli Network Technology"
 	vendor2c1eea = "AERODEV"
@@ -17535,6 +17553,7 @@ const (
 	vendor2cab46 = "Ruckus Wireless"
 	vendor2caba4 = "Cisco SPVTG"
 	vendor2cabeb = "Cisco Systems"
+	vendor2cabee = "EM Microelectronic"
 	vendor2cac44 = "CONEXTOP"
 	vendor2cad13 = "SHENZHEN ZHILU TECHNOLOGY"
 	vendor2cae2b = "Samsung Electronics"
@@ -17617,6 +17636,7 @@ const (
 	vendor2cdda3 = "Point Grey Research"
 	vendor2cdde9 = "Arista Networks"
 	vendor2cdedf = "Guangxi Konaixin Precision Technology"
+	vendor2cdef5 = "TVS REGZA"
 	vendor2cdf68 = "Apple"
 	vendor2cdfe6 = "Raisecom Technology"
 	vendor2ce032 = "TCL King Electrical Appliances(Huizhou)"
@@ -17676,6 +17696,7 @@ const (
 	vendor30055c = "Brother industries"
 	vendor30074d = "SAMSUNG ELECTRO-MECHANICS(THAILAND)"
 	vendor30075c = "43403"
+	vendor30084d = "Trumpf Hüttinger"
 	vendor3009c0 = "Motorola Mobility LLC, a Lenovo"
 	vendor3009f9 = "IEEE Registration Authority"
 	vendor300a60 = "IEEE Registration Authority"
@@ -18677,6 +18698,7 @@ const (
 	vendor386b1c = "SHENZHEN MERCURY COMMUNICATION TECHNOLOGIES"
 	vendor386bbb = "Commscope"
 	vendor386c9b = "Ivy Biomedical"
+	vendor386ded = "Juniper Networks"
 	vendor386e21 = "Wasion Group"
 	vendor386e88 = "zte"
 	vendor386ea2 = "vivo Mobile Communication"
@@ -18753,6 +18775,7 @@ const (
 	vendor389f83 = "OTN Systems N.V."
 	vendor38a067 = "Nokia Solutions and Networks GmbH & Co. KG"
 	vendor38a28c = "SHENZHEN RF-LINK TECHNOLOGY"
+	vendor38a3e0 = "1Finity"
 	vendor38a44b = "Huawei Device"
 	vendor38a4ed = "Xiaomi Communications"
 	vendor38a53c = "COMECER Netherlands"
@@ -18782,6 +18805,7 @@ const (
 	vendor38afd0 = "Nevro"
 	vendor38afd7 = "FUJITSU"
 	vendor38b12d = "Sonotronic Nagel"
+	vendor38b14e = "IEEE Registration Authority"
 	vendor38b19e = "IEEE Registration Authority"
 	vendor38b1db = "Hon Hai Precision Ind."
 	vendor38b3f7 = "Huawei Device"
@@ -18844,6 +18868,7 @@ const (
 	vendor38e054 = "Security Design"
 	vendor38e08e = "Mitsubishi Electric"
 	vendor38e13d = "Apple"
+	vendor38e158 = "Flaircomm Microelectronics"
 	vendor38e1aa = "zte"
 	vendor38e1f4 = "Sagemcom Broadband SAS"
 	vendor38e26e = "ShenZhen Sweet Rain Electronics"
@@ -19119,6 +19144,7 @@ const (
 	vendor3c7c3f = "ASUSTek COMPUTER"
 	vendor3c7d0a = "Apple"
 	vendor3c7db1 = "Texas Instruments"
+	vendor3c7f6e = "Xiaomi Communications"
 	vendor3c7f6f = "Telechips"
 	vendor3c806b = "Hunan Voc Acoustics Technology"
 	vendor3c80aa = "Ransnet Singapore Pte"
@@ -19217,6 +19243,7 @@ const (
 	vendor3cb792 = "Hitachi Maxell, Ltd., Optronics Division"
 	vendor3cb87a = "Private"
 	vendor3cb8d6 = "Bluebank Communication Technology"
+	vendor3cb922 = "HUAWEI TECHNOLOGIES"
 	vendor3cb9a6 = "Belden Deutschland"
 	vendor3cbb73 = "Shenzhen Xinguodu Technology"
 	vendor3cbbfd = "Samsung Electronics"
@@ -19229,6 +19256,7 @@ const (
 	vendor3cbe8e = "Guangzhou Shiyuan Electronic Technology"
 	vendor3cbee1 = "NIKON"
 	vendor3cbf60 = "Apple"
+	vendor3cbfd7 = "Apple"
 	vendor3cc03e = "HUAWEI TECHNOLOGIES"
 	vendor3cc079 = "Shenzhen One-Nine Intelligent Electronic Science and Technology"
 	vendor3cc0c6 = "d&b audiotechnik"
@@ -19511,6 +19539,7 @@ const (
 	vendor407875 = "IMBEL - Industria de Material Belico do Brasil"
 	vendor407911 = "Apple"
 	vendor407912 = "Texas Instruments"
+	vendor407955 = "Datacolor"
 	vendor407a80 = "Nokia"
 	vendor407aa4 = "ZHEJIANG DAHUA TECHNOLOGY"
 	vendor407b1b = "Mettle Networks"
@@ -19620,6 +19649,7 @@ const (
 	vendor40b89a = "Hon Hai Precision Ind."
 	vendor40b8c2 = "OSMOZIS"
 	vendor40b93c = "Hewlett Packard Enterprise"
+	vendor40ba09 = "Dell"
 	vendor40ba61 = "ARIMA Communications"
 	vendor40bb56 = "TeraNXT Global India Pvt"
 	vendor40bc60 = "Apple"
@@ -19851,6 +19881,7 @@ const (
 	vendor444963 = "Woven By Toyota U.S."
 	vendor444988 = "Intel Corporate"
 	vendor444a37 = "Xiaomi Communications"
+	vendor444a4c = "vivo Mobile Communication"
 	vendor444a65 = "Silverflare"
 	vendor444ab0 = "Zhejiang Moorgen Intelligence Technology"
 	vendor444ad6 = "Shenzhen Rinocloud Technology"
@@ -19924,6 +19955,7 @@ const (
 	vendor447609 = "New H3C Technologies"
 	vendor447654 = "HUAWEI TECHNOLOGIES"
 	vendor4476e7 = "TECNO MOBILE"
+	vendor447831 = "HUAWEI TECHNOLOGIES"
 	vendor44783e = "Samsung Electronics"
 	vendor447bbb = "Shenzhen YOUHUA Technology"
 	vendor447bc4 = "DualShine Technology(SZ)"
@@ -19960,6 +19992,7 @@ const (
 	vendor448eec = "China Mobile Group Device"
 	vendor448f17 = "Samsung Electronics Co., Ltd. ARTIK"
 	vendor449046 = "Honor Device"
+	vendor4490ba = "CHINA DRAGON TECHNOLOGY"
 	vendor4490bb = "Apple"
 	vendor449160 = "Murata Manufacturing"
 	vendor44917c = "HMD Global Oy"
@@ -19970,6 +20003,7 @@ const (
 	vendor4495fa = "Qingdao Santong Digital Technology"
 	vendor44962b = "Aidon Oy"
 	vendor44975a = "SHENZHEN FAST TECHNOLOGIES"
+	vendor449a52 = "zte"
 	vendor449b78 = "The Now Factory"
 	vendor449bc1 = "HUAWEI TECHNOLOGIES"
 	vendor449bc6 = "EOSS s.r.l."
@@ -20011,6 +20045,7 @@ const (
 	vendor44ae44 = "Huawei Device"
 	vendor44aeab = "GUANGDONG OPPO MOBILE TELECOMMUNICATIONS"
 	vendor44af28 = "Intel Corporate"
+	vendor44b176 = "Espressif"
 	vendor44b295 = "Sichuan AI-Link Technology Co., "
 	vendor44b32d = "TP-LINK TECHNOLOGIES"
 	vendor44b382 = "Kuang-chi Institute of Advanced Technology"
@@ -20402,6 +20437,7 @@ const (
 	vendor48a98a = "Routerboard.com"
 	vendor48a9d2 = "WNC"
 	vendor48aa5d = "Store Electronic Systems"
+	vendor48aabb = "Sagemcom Broadband SAS"
 	vendor48ad08 = "HUAWEI TECHNOLOGIES"
 	vendor48ad9a = "Intel Corporate"
 	vendor48b02d = "NVIDIA"
@@ -20548,7 +20584,7 @@ const (
 	vendor4c07c9 = "COMPUTER OFFICE"
 	vendor4c0997 = "Arista Networks"
 	vendor4c09b4 = "zte"
-	vendor4c09d4 = "Arcadyan Technology"
+	vendor4c09d4 = "Arcadyan"
 	vendor4c09fa = "FRONTIER SMART TECHNOLOGIES"
 	vendor4c0a3d = "ADNACOM"
 	vendor4c0a4e = "Extreme Networks Headquarters"
@@ -21030,6 +21066,7 @@ const (
 	vendor503275 = "Samsung Electronics"
 	vendor50338b = "Texas Instruments"
 	vendor5033f0 = "YICHEN (SHENZHEN) TECHNOLOGY"
+	vendor5037cd = "Quectel Wireless Solutions"
 	vendor50382f = "ASE Group Chung-Li"
 	vendor5038ab = "PROVE"
 	vendor50392f = "INGRAM MICRO SERVICES"
@@ -21113,12 +21150,14 @@ const (
 	vendor50613f = "eero"
 	vendor50617e = "Shenzhen MiaoMing Intelligent Technology"
 	vendor506184 = "Avaya"
+	vendor506188 = "PLANET Technology"
 	vendor5061bf = "Cisco Systems"
 	vendor5061d6 = "Indu-Sol"
 	vendor5061f6 = "Universal Electronics"
 	vendor506245 = "Annapurna labs"
 	vendor506255 = "IEEE Registration Authority"
 	vendor506313 = "Hon Hai Precision Ind."
+	vendor506382 = "HUAWEI TECHNOLOGIES"
 	vendor506391 = "HUAWEI TECHNOLOGIES"
 	vendor50642b = "XIAOMI Electronics"
 	vendor506441 = "Greenlee"
@@ -21163,7 +21202,7 @@ const (
 	vendor507b9d = "LCFC(Hefei) Electronics Technology"
 	vendor507c6f = "Intel Corporate"
 	vendor507d02 = "BIODIT"
-	vendor507e5d = "Arcadyan Technology"
+	vendor507e5d = "Arcadyan"
 	vendor50804a = "Quectel Wireless Solutions"
 	vendor508140 = "HP"
 	vendor5082d5 = "Apple"
@@ -21442,6 +21481,7 @@ const (
 	vendor54278d = "NXP (China) Management"
 	vendor542906 = "Apple"
 	vendor542a1b = "Sonos"
+	vendor542a43 = "Apple"
 	vendor542a9c = "LSY Defense"
 	vendor542aa2 = "Alpha Networks"
 	vendor542b1c = "Amazon Technologies"
@@ -21723,6 +21763,7 @@ const (
 	vendor54e61b = "Apple"
 	vendor54e63f = "ShenZhen LingKeWeiEr Technology"
 	vendor54e6fc = "TP-LINK TECHNOLOGIES"
+	vendor54e6fd = "Sony Interactive Entertainment"
 	vendor54e7d5 = "Sun Cupid Technology (HK)"
 	vendor54eaa8 = "Apple"
 	vendor54eae1 = "Honor Device"
@@ -21806,6 +21847,7 @@ const (
 	vendor58208a = "IEEE Registration Authority"
 	vendor5820b1 = "Hewlett Packard"
 	vendor582136 = "KMB systems, s.r.o."
+	vendor58219d = "Shanghai Timar Integrated Circuit"
 	vendor5821e9 = "TWPI"
 	vendor58238c = "Vantiva USA"
 	vendor58239b = "Fiberhome Telecommunication Technologies"
@@ -21816,6 +21858,8 @@ const (
 	vendor58263a = "Silicon Laboratories"
 	vendor582745 = "Angelbird Technologies"
 	vendor58278c = "BUFFALO."
+	vendor582a93 = "Apple"
+	vendor582abd = "Espressif"
 	vendor582af7 = "HUAWEI TECHNOLOGIES"
 	vendor582b0a = "Texas Instruments"
 	vendor582bdb = "Pax AB"
@@ -21871,6 +21915,7 @@ const (
 	vendor585595 = "Apple"
 	vendor5855ca = "Apple"
 	vendor58569f = "Cisco Systems"
+	vendor5856aa = "Apple"
 	vendor5856c2 = "HUAWEI TECHNOLOGIES"
 	vendor5856e8 = "Commscope"
 	vendor58570d = "Danfoss Solar Inverters"
@@ -22314,6 +22359,7 @@ const (
 	vendor5c7df3 = "Fiberhome Telecommunication Technologies"
 	vendor5c80b6 = "Intel Corporate"
 	vendor5c81a7 = "Network Devices Pty"
+	vendor5c8217 = "DSE srl"
 	vendor5c836c = "Ruckus Wireless"
 	vendor5c8382 = "Nokia"
 	vendor5c838f = "Cisco Systems"
@@ -22380,6 +22426,7 @@ const (
 	vendor5ca6e6 = "TP-Link Systems"
 	vendor5ca721 = "New H3C Technologies"
 	vendor5ca86a = "HUAWEI TECHNOLOGIES"
+	vendor5ca931 = "38436"
 	vendor5ca933 = "Luma Home"
 	vendor5caafd = "Sonos"
 	vendor5cac3d = "Samsung Electronics"
@@ -22408,6 +22455,7 @@ const (
 	vendor5cb901 = "Hewlett Packard"
 	vendor5cba2c = "Hewlett Packard Enterprise"
 	vendor5cba37 = "Microsoft"
+	vendor5cba75 = "Quectel Wireless Solutions"
 	vendor5cbaef = "CHONGQING FUGUI ELECTRONICS"
 	vendor5cbbee = "zte"
 	vendor5cbd9a = "Huawei Device"
@@ -22459,7 +22507,7 @@ const (
 	vendor5cdad4 = "Murata Manufacturing"
 	vendor5cdb36 = "Calix"
 	vendor5cdc49 = "Samsung Electronics"
-	vendor5cdc96 = "Arcadyan Technology"
+	vendor5cdc96 = "Arcadyan"
 	vendor5cdd70 = "Hangzhou H3C Technologies"
 	vendor5cde34 = "SHENZHEN MERCURY COMMUNICATION TECHNOLOGIES"
 	vendor5cdf89 = "Ruckus Wireless"
@@ -22659,6 +22707,7 @@ const (
 	vendor60512c = "TCT mobile"
 	vendor6052d0 = "FACTS Engineering"
 	vendor605317 = "Sandstone Technologies"
+	vendor605355 = "HUAWEI TECHNOLOGIES"
 	vendor605375 = "HUAWEI TECHNOLOGIES"
 	vendor605464 = "Eyedro Green Solutions"
 	vendor605556 = "Jiangxi Risound Electronics"
@@ -22768,6 +22817,7 @@ const (
 	vendor6092f5 = "Commscope"
 	vendor609316 = "Apple"
 	vendor609532 = "Zebra Technologies"
+	vendor609578 = "Samsung Electronics"
 	vendor6095bd = "Apple"
 	vendor6095ce = "IEEE Registration Authority"
 	vendor6095f8 = "Arcadyan"
@@ -23219,6 +23269,7 @@ const (
 	vendor64a837 = "Juni Korea"
 	vendor64a965 = "Linkflow"
 	vendor64ac2b = "Juniper Networks"
+	vendor64ace0 = "Samsung Electronics"
 	vendor64ae0c = "Cisco Systems"
 	vendor64ae88 = "Polytec"
 	vendor64aef1 = "Qingdao Hisense Electronics"
@@ -23264,7 +23315,9 @@ const (
 	vendor64c6d2 = "Seiko Epson"
 	vendor64c753 = "Apple"
 	vendor64c901 = "INVENTEC"
+	vendor64c905 = "Apple"
 	vendor64c944 = "LARK Technologies"
+	vendor64ca80 = "Realme Chongqing Mobile Telecommunications"
 	vendor64cb5d = "SIA TeleSet"
 	vendor64cb9f = "TECNO MOBILE"
 	vendor64cba3 = "Pointmobile"
@@ -23465,6 +23518,7 @@ const (
 	vendor684724 = "EM Microelectronic"
 	vendor684749 = "Texas Instruments"
 	vendor684898 = "Samsung Electronics"
+	vendor6848b4 = "AltoBeam"
 	vendor684983 = "HUAWEI TECHNOLOGIES"
 	vendor684992 = "Cisco Meraki"
 	vendor6849b2 = "CARLO GAVAZZI"
@@ -23603,6 +23657,7 @@ const (
 	vendor689e0b = "Cisco Systems"
 	vendor689e19 = "Texas Instruments"
 	vendor689e29 = "zte"
+	vendor689e67 = "SHENZHEN FOCUSCOM TECHNOLOGIES"
 	vendor689e6a = "Huawei Device"
 	vendor689fd4 = "Amazon Technologies"
 	vendor689ff0 = "zte"
@@ -23660,6 +23715,7 @@ const (
 	vendor68c44d = "Motorola Mobility LLC, a Lenovo"
 	vendor68c63a = "Espressif"
 	vendor68c6ac = "Intel Corporate"
+	vendor68c8c0 = "GSD VIET NAM TECHNOLOGY"
 	vendor68c8eb = "Rockwell Automation"
 	vendor68c90b = "Texas Instruments"
 	vendor68c95d = "SZ Knowact Robot Technology"
@@ -23721,6 +23777,7 @@ const (
 	vendor68eda4 = "Shenzhen Seavo Technology"
 	vendor68ee4b = "Sharetronic Data Technology"
 	vendor68ee88 = "Shenzhen TINNO Mobile Technology"
+	vendor68ee8f = "Espressif"
 	vendor68ee96 = "Cisco SPVTG"
 	vendor68ef43 = "Apple"
 	vendor68efa8 = "AutomationDirect.com"
@@ -24067,6 +24124,7 @@ const (
 	vendor6cb9c5 = "Delta Networks"
 	vendor6cbab8 = "Sagemcom Broadband SAS"
 	vendor6cbee9 = "Alcatel-Lucent IPD"
+	vendor6cbf2f = "eero"
 	vendor6cbfb5 = "Noon Technology"
 	vendor6cc147 = "Xiamen Hanin Electronic Technology"
 	vendor6cc1d2 = "Commscope"
@@ -24114,6 +24172,7 @@ const (
 	vendor6cdffb = "IEEE Registration Authority"
 	vendor6ce01e = "Modcam AB"
 	vendor6ce0b0 = "SOUND4"
+	vendor6ce20c = "Hangzhou SDIC Microelectronics"
 	vendor6ce2d3 = "New H3C Technologies"
 	vendor6ce3b6 = "Nera Telecommunications"
 	vendor6ce4a4 = "Silicon Laboratories"
@@ -24352,6 +24411,7 @@ const (
 	vendor70704c = "Purple Communications"
 	vendor70708b = "Cisco Systems"
 	vendor7070aa = "Amazon Technologies"
+	vendor7070d5 = "HUAWEI TECHNOLOGIES"
 	vendor7070fc = "GOLD&WATER INDUSTRIAL"
 	vendor7071b3 = "Brain"
 	vendor7071bc = "PEGATRON"
@@ -24417,6 +24477,7 @@ const (
 	vendor709383 = "Intelligent Optical Network High Tech"
 	vendor7093c1 = "eero"
 	vendor7093f8 = "Space Monkey"
+	vendor709684 = "Apple"
 	vendor709741 = "Arcadyan"
 	vendor709751 = "Beijing Xiaomi Mobile Software"
 	vendor709756 = "Happyelectronics"
@@ -24454,6 +24515,7 @@ const (
 	vendor70acd7 = "Shenzhen YOUHUA Technology"
 	vendor70ad43 = "Blink by Amazon"
 	vendor70ad54 = "Malvern Instruments"
+	vendor70ae2a = "Apple"
 	vendor70aed5 = "Apple"
 	vendor70af09 = "Espressif"
 	vendor70af24 = "TP Vision Belgium NV"
@@ -24605,6 +24667,7 @@ const (
 	vendor741213 = "Linksys USA"
 	vendor7412b3 = "CHONGQING FUGUI ELECTRONICS"
 	vendor7412bb = "Fiberhome Telecommunication Technologies"
+	vendor74136a = "Motorola Mobility LLC, a Lenovo"
 	vendor7413ea = "Intel Corporate"
 	vendor741489 = "SRT Wireless"
 	vendor7414d0 = "Apple"
@@ -24630,6 +24693,7 @@ const (
 	vendor742435 = "Huawei Device"
 	vendor74249f = "TIBRO"
 	vendor7424ca = "Guangzhou Shiyuan Electronic Technology"
+	vendor742554 = "NVIDIA"
 	vendor742584 = "IEEE Registration Authority"
 	vendor74258a = "Hangzhou H3C Technologies"
 	vendor7426ac = "Cisco Systems"
@@ -24656,7 +24720,7 @@ const (
 	vendor742f68 = "AzureWave Technology"
 	vendor74309d = "Infinix mobility"
 	vendor7430af = "Fiberhome Telecommunication Technologies"
-	vendor743170 = "Arcadyan Technology"
+	vendor743170 = "Arcadyan"
 	vendor743174 = "Apple"
 	vendor74317e = "Ruckus Wireless"
 	vendor743256 = "NT-ware Systemprg"
@@ -24842,6 +24906,7 @@ const (
 	vendor749779 = "CLOUD NETWORK TECHNOLOGY SINGAPORE PTE."
 	vendor749781 = "zte"
 	vendor74978e = "Nova Labs"
+	vendor7498f4 = "BUFFALO."
 	vendor749975 = "IBM"
 	vendor749ac0 = "Cachengo"
 	vendor749b89 = "HUAWEI TECHNOLOGIES"
@@ -25038,6 +25103,7 @@ const (
 	vendor780738 = "Z.U.K. Elzab S.A."
 	vendor78078f = "HUAWEI TECHNOLOGIES"
 	vendor78084d = "HUAWEI TECHNOLOGIES"
+	vendor780a57 = "Shanghai Lightningsemi Technology"
 	vendor780ac7 = "Baofeng TV"
 	vendor780b8c = "Private"
 	vendor780c71 = "Inseego Wireless"
@@ -25146,6 +25212,7 @@ const (
 	vendor784561 = "CyberTAN Technology"
 	vendor7845b3 = "Huawei Device"
 	vendor7845c4 = "Dell"
+	vendor7845dc = "HUAWEI TECHNOLOGIES"
 	vendor78465c = "CLOUD NETWORK TECHNOLOGY SINGAPORE PTE."
 	vendor78465f = "Fiberhome Telecommunication Technologies"
 	vendor78467d = "SKAIChips"
@@ -25591,7 +25658,7 @@ const (
 	vendor7c4d8f = "HP"
 	vendor7c4e09 = "Shenzhen Skyworth Wireless Technology"
 	vendor7c4f7d = "Sawwave"
-	vendor7c4fb5 = "Arcadyan Technology"
+	vendor7c4fb5 = "Arcadyan"
 	vendor7c5049 = "Apple"
 	vendor7c5079 = "Intel Corporate"
 	vendor7c50da = "E.J Ward"
@@ -25606,6 +25673,7 @@ const (
 	vendor7c5758 = "HP"
 	vendor7c5a1c = "Sophos"
 	vendor7c5a67 = "JNC Systems"
+	vendor7c5c8d = "EM Microelectronic"
 	vendor7c5cf8 = "Intel Corporate"
 	vendor7c5e98 = "eero"
 	vendor7c604a = "Avelon"
@@ -26545,7 +26613,7 @@ const (
 	vendor849a40 = "Hangzhou Hikvision Digital Technology"
 	vendor849c02 = "Druid Software"
 	vendor849ca4 = "Mimosa Networks"
-	vendor849ca6 = "Arcadyan Technology"
+	vendor849ca6 = "Arcadyan"
 	vendor849d4b = "Shenzhen Boomtech Industrial"
 	vendor849d64 = "SMC"
 	vendor849dc2 = "Shanghai MXCHIP Information Technology"
@@ -26581,6 +26649,7 @@ const (
 	vendor84acfb = "Crouzet Automatismes"
 	vendor84ad58 = "HUAWEI TECHNOLOGIES"
 	vendor84ad8d = "Apple"
+	vendor84aede = "Xiaomi Communications"
 	vendor84af1f = "GopherTec"
 	vendor84afec = "BUFFALO."
 	vendor84b153 = "Apple"
@@ -26720,7 +26789,7 @@ const (
 	vendor8801f9 = "Texas Instruments"
 	vendor880264 = "Pascal Audio"
 	vendor88034c = "WEIFANG GOERTEK ELECTRONICS"
-	vendor880355 = "Arcadyan Technology"
+	vendor880355 = "Arcadyan"
 	vendor8803e9 = "GUANGDONG OPPO MOBILE TELECOMMUNICATIONS"
 	vendor88074b = "LG Electronics (Mobile Communications)"
 	vendor880894 = "Skullcandy"
@@ -26771,7 +26840,7 @@ const (
 	vendor8823fe = "TTTech Computertechnik AG"
 	vendor882508 = "Meta Platforms"
 	vendor882510 = "Hewlett Packard Enterprise"
-	vendor88252c = "Arcadyan Technology"
+	vendor88252c = "Arcadyan"
 	vendor882593 = "TP-LINK TECHNOLOGIES"
 	vendor88263f = "Zhejiang Uniview Technologies"
 	vendor88287d = "AltoBeam (China)"
@@ -26899,6 +26968,7 @@ const (
 	vendor886eeb = "HUAWEI TECHNOLOGIES"
 	vendor886f29 = "Pocketbook International SA"
 	vendor886fd4 = "Dell"
+	vendor887015 = "Apple"
 	vendor887033 = "Hangzhou Silan Microelectronic"
 	vendor88708c = "Lenovo Mobile Communication Technology"
 	vendor8870ef = "SC Professional Trading"
@@ -26919,6 +26989,7 @@ const (
 	vendor887b2c = "zte"
 	vendor887cc1 = "Zebronics India Pvt"
 	vendor887e25 = "Extreme Networks Headquarters"
+	vendor887e9b = "Apple"
 	vendor887f03 = "Comper Technology Investment"
 	vendor887fd5 = "zte"
 	vendor888187 = "Umeox Innovations"
@@ -27241,6 +27312,7 @@ const (
 	vendor8c4db9 = "Unmonday"
 	vendor8c4dea = "Cerio"
 	vendor8c4e46 = "Motorola Mobility LLC, a Lenovo"
+	vendor8c4ebb = "Amazon Technologies"
 	vendor8c4f00 = "Espressif"
 	vendor8c501a = "Private"
 	vendor8c5105 = "Shenzhen ireadygo Information Technology"
@@ -27567,6 +27639,7 @@ const (
 	vendor900d66 = "Digimore Electronics"
 	vendor900dcb = "Commscope"
 	vendor900e83 = "Monico Monitoring"
+	vendor900e84 = "eero"
 	vendor900e9e = "Shenzhen SuperElectron Technology"
 	vendor900eb3 = "Shenzhen Amediatech Technology"
 	vendor900f0c = "CLOUD NETWORK TECHNOLOGY SINGAPORE PTE."
@@ -27708,6 +27781,7 @@ const (
 	vendor9061ae = "Intel Corporate"
 	vendor90623f = "Apple"
 	vendor90633b = "Samsung Electronics"
+	vendor90649b = "Espressif"
 	vendor9064ad = "HUAWEI TECHNOLOGIES"
 	vendor906560 = "EM Microelectronic"
 	vendor906584 = "Intel Corporate"
@@ -28109,6 +28183,7 @@ const (
 	vendor945330 = "Hon Hai Precision Ind."
 	vendor9453ff = "Intel Corporate"
 	vendor945493 = "Rigado"
+	vendor9454a0 = "Fosilicon"
 	vendor9454c5 = "Espressif"
 	vendor9454ce = "GUANGDONG OPPO MOBILE TELECOMMUNICATIONS"
 	vendor9454df = "YST"
@@ -28471,6 +28546,7 @@ const (
 	vendor9829a6 = "COMPAL INFORMATION (KUNSHAN)"
 	vendor982a0a = "Intelbras"
 	vendor982afd = "HUAWEI TECHNOLOGIES"
+	vendor982ba6 = "Motorola Mobility LLC, a Lenovo"
 	vendor982cbc = "Intel Corporate"
 	vendor982cbe = "2Wire"
 	vendor982cc6 = "SERNET (SUZHOU) TECHNOLOGIES"
@@ -28496,6 +28572,7 @@ const (
 	vendor983a1f = "Google"
 	vendor983b16 = "AMPAK Technology"
 	vendor983b67 = "DWnet Technologies(Suzhou)"
+	vendor983b8a = "Sekisui Jushi CAP-AI System"
 	vendor983b8f = "Intel Corporate"
 	vendor983c8c = "Apple"
 	vendor983dae = "Espressif"
@@ -29000,7 +29077,7 @@ const (
 	vendor9c7f57 = "UNIC Memory Technology"
 	vendor9c7f81 = "SHENZHEN FAST TECHNOLOGIES"
 	vendor9c807d = "SYSCABLE Korea"
-	vendor9c80df = "Arcadyan Technology"
+	vendor9c80df = "Arcadyan"
 	vendor9c823f = "Huawei Device"
 	vendor9c8275 = "Yichip Microelectronics (Hangzhou)"
 	vendor9c8281 = "vivo Mobile Communication"
@@ -29118,9 +29195,11 @@ const (
 	vendor9cc9eb = "NETGEAR"
 	vendor9ccad9 = "Nokia"
 	vendor9ccbf7 = "CLOUD STAR TECHNOLOGY"
+	vendor9ccc01 = "Espressif"
 	vendor9ccc83 = "Juniper Networks"
 	vendor9ccd42 = "Dongguan Liesheng Electronic"
 	vendor9ccd82 = "CHENG UEI PRECISION INDUSTRY"
+	vendor9cce22 = "PROMED Soest"
 	vendor9cce88 = "Ruijie Networks"
 	vendor9cd1d0 = "Guangzhou Ronsuo Electronic Technology"
 	vendor9cd21e = "Hon Hai Precision Ind."
@@ -29846,6 +29925,7 @@ const (
 	vendora49340 = "Beijing Supvan Information Technology"
 	vendora4934c = "Cisco Systems"
 	vendora493ad = "Huawei Device"
+	vendora493fe = "HUAWEI TECHNOLOGIES"
 	vendora49426 = "Elgama-Elektronika"
 	vendora494dc = "Infinite Clouds"
 	vendora49700 = "Cisco Systems"
@@ -29972,6 +30052,7 @@ const (
 	vendora4d5c2 = "Hangzhou Hikvision Digital Technology"
 	vendora4d73c = "Seiko Epson"
 	vendora4d795 = "Wingtech Mobile Communications"
+	vendora4d7d6 = "Shenzhen Linkoh Network Technology Co;"
 	vendora4d856 = "Gimbal"
 	vendora4d8ca = "HONG KONG WATER WORLD TECHNOLOGY"
 	vendora4d931 = "Apple"
@@ -30182,6 +30263,7 @@ const (
 	vendora85e45 = "ASUSTek COMPUTER"
 	vendora85ee4 = "12Sided Technology"
 	vendora85ef2 = "TECNO MOBILE"
+	vendora85f61 = "Apple"
 	vendora860b6 = "Apple"
 	vendora8610a = "ARDUINO AG"
 	vendora861aa = "Cloudview"
@@ -30358,7 +30440,7 @@ const (
 	vendora8d162 = "Samsung Electronics"
 	vendora8d236 = "Lightware Visual Engineering"
 	vendora8d3c8 = "Wachendorff Automation GmbH & CO.KG"
-	vendora8d3f7 = "Arcadyan Technology"
+	vendora8d3f7 = "Arcadyan"
 	vendora8d409 = "USA 111"
 	vendora8d498 = "Avira Operations GmbH & Co. KG"
 	vendora8d4e0 = "HUAWEI TECHNOLOGIES"
@@ -30536,6 +30618,7 @@ const (
 	vendorac4330 = "Versa Networks"
 	vendorac44f2 = "YAMAHA"
 	vendorac4500 = "Apple"
+	vendorac45b0 = "Shenzhen Jidao Technology"
 	vendorac45ca = "GUANGDONG OPPO MOBILE TELECOMMUNICATIONS"
 	vendorac45ef = "Intel Corporate"
 	vendorac471b = "Huawei Device"
@@ -30809,6 +30892,7 @@ const (
 	vendorace42e = "SK hynix"
 	vendorace4b5 = "Apple"
 	vendorace5f0 = "Doppler Labs"
+	vendorace606 = "Honor Device"
 	vendorace64b = "Shenzhen Baojia Battery Technology"
 	vendorace6bb = "Google"
 	vendorace77b = "Sichuan Tianyi Comheart Telecom"
@@ -30905,6 +30989,7 @@ const (
 	vendorb0285b = "JUHUA Technology"
 	vendorb02a1f = "Wingtech Group (HongKong）"
 	vendorb02a43 = "Google"
+	vendorb02b64 = "Cisco Systems"
 	vendorb02eba = "Earda Technologies"
 	vendorb02ee0 = "Huawei Device"
 	vendorb03055 = "China Mobile IOT"
@@ -31022,6 +31107,7 @@ const (
 	vendorb0793c = "Revolv"
 	vendorb07994 = "Motorola Mobility LLC, a Lenovo"
 	vendorb07a16 = "ROEHN"
+	vendorb07aa4 = "Guangzhou Punp Electronics Manufacturing"
 	vendorb07adf = "HUAWEI TECHNOLOGIES"
 	vendorb07b25 = "Dell"
 	vendorb07c51 = "Ruckus Wireless"
@@ -31216,6 +31302,7 @@ const (
 	vendorb0ee45 = "AzureWave Technology"
 	vendorb0ee7b = "Roku"
 	vendorb0f00c = "Dongguan Wecxw"
+	vendorb0f079 = "GUANGDONG OPPO MOBILE TELECOMMUNICATIONS"
 	vendorb0f1a3 = "Fengfan (BeiJing) Technology"
 	vendorb0f1ae = "eero"
 	vendorb0f1bc = "Dhemax Ingenieros Ltda"
@@ -31511,6 +31598,7 @@ const (
 	vendorb4b542 = "Hubbell Power Systems"
 	vendorb4b5af = "Minsung Electronics"
 	vendorb4b5b6 = "CHONGQING FUGUI ELECTRONICS"
+	vendorb4b650 = "Realme Chongqing Mobile Telecommunications"
 	vendorb4b676 = "Intel Corporate"
 	vendorb4b686 = "Hewlett Packard"
 	vendorb4b742 = "Amazon Technologies"
@@ -31646,6 +31734,7 @@ const (
 	vendorb808cf = "Intel Corporate"
 	vendorb808d7 = "HUAWEI TECHNOLOGIES"
 	vendorb8098a = "Apple"
+	vendorb80b9a = "HUAWEI TECHNOLOGIES"
 	vendorb80b9d = "ROPEX Industrie-Elektronik"
 	vendorb80bda = "GD Midea Air-Conditioning Equipment"
 	vendorb810d4 = "Masimo"
@@ -31706,6 +31795,7 @@ const (
 	vendorb83765 = "GUANGDONG OPPO MOBILE TELECOMMUNICATIONS"
 	vendorb837b2 = "Hewlett Packard Enterprise"
 	vendorb83861 = "Cisco Systems"
+	vendorb83865 = "Hewlett Packard Enterprise"
 	vendorb838ca = "Kyokko Tsushin System"
 	vendorb838ef = "ADVA Optical Networking"
 	vendorb83a08 = "Tenda Technology Co.,Ltd.Dongguan branch"
@@ -31753,6 +31843,7 @@ const (
 	vendorb85600 = "HUAWEI TECHNOLOGIES"
 	vendorb856bd = "ITT"
 	vendorb85776 = "lignex1"
+	vendorb857d6 = "Cisco Systems"
 	vendorb857d8 = "Samsung Electronics"
 	vendorb85810 = "NUMERA"
 	vendorb858ff = "Arista Networks"
@@ -31825,6 +31916,7 @@ const (
 	vendorb88687 = "Liteon Technology"
 	vendorb8871e = "Good Mind Industries"
 	vendorb8876e = "Intertech Services AG"
+	vendorb88788 = "HP"
 	vendorb887a8 = "Step Ahead Innovations"
 	vendorb887c6 = "Prudential Technology"
 	vendorb88880 = "Shanghai Imilab Technology"
@@ -31967,6 +32059,7 @@ const (
 	vendorb8d50b = "Sunitec Enterprise"
 	vendorb8d526 = "Zyxel Communications"
 	vendorb8d56b = "Mirka"
+	vendorb8d5ad = "Nokia"
 	vendorb8d61a = "Espressif"
 	vendorb8d6f6 = "HUAWEI TECHNOLOGIES"
 	vendorb8d7af = "Murata Manufacturing"
@@ -32210,6 +32303,7 @@ const (
 	vendorbc671c = "Cisco Systems"
 	vendorbc6778 = "Apple"
 	vendorbc6784 = "Environics Oy"
+	vendorbc68c3 = "HUAWEI TECHNOLOGIES"
 	vendorbc69cb = "Panasonic Electric Works Networks"
 	vendorbc6a16 = "tdvine"
 	vendorbc6a29 = "Texas Instruments"
@@ -32229,6 +32323,7 @@ const (
 	vendorbc73a4 = "ANDA TELECOM PVT"
 	vendorbc744b = "Nintendo"
 	vendorbc74d7 = "HangZhou JuRu Technology"
+	vendorbc74ea = "Apple"
 	vendorbc7536 = "ALPSALPINE CO,."
 	vendorbc7574 = "HUAWEI TECHNOLOGIES"
 	vendorbc7596 = "Beijing Broadwit Technology"
@@ -32360,6 +32455,7 @@ const (
 	vendorbcc31b = "Kygo Life A"
 	vendorbcc342 = "Panasonic Communications"
 	vendorbcc427 = "HUAWEI TECHNOLOGIES"
+	vendorbcc436 = "Nokia"
 	vendorbcc493 = "Cisco Systems"
 	vendorbcc61a = "SPECTRA EMBEDDED SYSTEMS"
 	vendorbcc6db = "Nokia"
@@ -32501,6 +32597,7 @@ const (
 	vendorc02c5c = "Apple"
 	vendorc02c7a = "Shenzhen Horn Audio"
 	vendorc02ced = "Silicon Laboratories"
+	vendorc02d10 = "MOHAN ELECTRONICS AND SYSTEMS"
 	vendorc02d2e = "China Mobile Group Device"
 	vendorc02dee = "Cuff"
 	vendorc02e1d = "Nokia Solutions and Networks GmbH & Co. KG"
@@ -32600,6 +32697,7 @@ const (
 	vendorc068cc = "Shenzhen Skyworth Digital  Technology"
 	vendorc06911 = "Arista Networks"
 	vendorc06b55 = "Motorola Mobility LLC, a Lenovo"
+	vendorc06bc7 = "Gallagher Group"
 	vendorc06c0c = "Apple"
 	vendorc06c0f = "Dobbs Stanford"
 	vendorc06c6d = "MagneMotion"
@@ -33230,6 +33328,7 @@ const (
 	vendorc4f174 = "eero"
 	vendorc4f1d1 = "BEIJING SOGOU TECHNOLOGY DEVELOPMENT"
 	vendorc4f312 = "Texas Instruments"
+	vendorc4f445 = "Apple"
 	vendorc4f464 = "Spica international"
 	vendorc4f57c = "Brocade Communications Systems"
 	vendorc4f5a5 = "Kumalift"
@@ -33304,6 +33403,7 @@ const (
 	vendorc82478 = "Edifier International"
 	vendorc82496 = "Jiangsu Yinhe  Electronics"
 	vendorc825e1 = "Lemobile Information Technology (Beijing)"
+	vendorc82691 = "Arista Networks"
 	vendorc826e2 = "CHINA DRAGON TECHNOLOGY"
 	vendorc82832 = "Beijing Xiaomi Electronics"
 	vendorc828e5 = "Cisco Systems"
@@ -33444,6 +33544,7 @@ const (
 	vendorc8848c = "Ruckus Wireless"
 	vendorc884a1 = "Cisco Systems"
 	vendorc884cf = "HUAWEI TECHNOLOGIES"
+	vendorc88541 = "Espressif"
 	vendorc88550 = "Apple"
 	vendorc88629 = "Shenzhen Duubee Intelligent Technologies"
 	vendorc88722 = "Lumenpulse"
@@ -33559,6 +33660,7 @@ const (
 	vendorc8c750 = "Motorola Mobility LLC, a Lenovo"
 	vendorc8c791 = "Zero1.tv"
 	vendorc8c83f = "Texas Instruments"
+	vendorc8c873 = "CHIPSEN"
 	vendorc8c9a3 = "Espressif"
 	vendorc8ca63 = "Huawei Device"
 	vendorc8ca79 = "Ciena"
@@ -33675,6 +33777,7 @@ const (
 	vendorcc08fa = "Apple"
 	vendorcc08fb = "TP-LINK TECHNOLOGIES"
 	vendorcc09c8 = "IMAQLIQ"
+	vendorcc0c9c = "CIG SHANGHAI"
 	vendorcc0cda = "Miljovakt AS"
 	vendorcc0dcb = "Microsoft"
 	vendorcc0de7 = "B METERS S.R.L."
@@ -33695,6 +33798,7 @@ const (
 	vendorcc1be0 = "IEEE Registration Authority"
 	vendorcc1e56 = "HUAWEI TECHNOLOGIES"
 	vendorcc1e97 = "HUAWEI TECHNOLOGIES"
+	vendorcc1eab = "LEDATEL sp. z o.o. i Wspólnicy sp.k"
 	vendorcc1eff = "Metrological Group BV"
 	vendorcc1fc4 = "InVue"
 	vendorcc208c = "HUAWEI TECHNOLOGIES"
@@ -33726,6 +33830,7 @@ const (
 	vendorcc2de0 = "Routerboard.com"
 	vendorcc2f71 = "Intel Corporate"
 	vendorcc3080 = "VAIO"
+	vendorcc3089 = "Mellanox Technologies"
 	vendorcc312a = "HUIZHOU TCL COMMUNICATION ELECTRON"
 	vendorcc3296 = "Huawei Device"
 	vendorcc32e5 = "TP-LINK TECHNOLOGIES"
@@ -33959,6 +34064,7 @@ const (
 	vendorccbd35 = "Steinel"
 	vendorccbdd3 = "Ultimaker B.V."
 	vendorccbe59 = "Calix"
+	vendorccbe61 = "Apple"
 	vendorccbe71 = "OptiLogix BV"
 	vendorccbf0c = "SHENZHEN FENDA TECHNOLOGY"
 	vendorccc079 = "Murata Manufacturing"
@@ -33973,6 +34079,7 @@ const (
 	vendorccc5ef = "Co-Comm Servicios Telecomunicaciones S.L."
 	vendorccc62b = "Tri-Systems"
 	vendorccc760 = "Apple"
+	vendorccc837 = "Quectel Wireless Solutions"
 	vendorccc8d7 = "CIAS Elettronica srl"
 	vendorccc92c = "Schindler - PORT Technology"
 	vendorccc95d = "Apple"
@@ -34057,6 +34164,7 @@ const (
 	vendorccf9f0 = "Samsung Electronics"
 	vendorccfa00 = "LG Electronics (Mobile Communications)"
 	vendorccfa66 = "Huawei Device"
+	vendorccfa95 = "Honor Device"
 	vendorccfaf1 = "Sagemcom Broadband SAS"
 	vendorccfb65 = "Nintendo"
 	vendorccfc6d = "RIZ TRANSMITTERS"
@@ -34293,6 +34401,7 @@ const (
 	vendord094cf = "HUAWEI TECHNOLOGIES"
 	vendord095c7 = "Pantech"
 	vendord09686 = "IEEE Registration Authority"
+	vendord096ea = "vivo Mobile Communication"
 	vendord096fb = "Zhone Technologies"
 	vendord097fe = "Realme Chongqing Mobile Telecommunications"
 	vendord0989c = "ConMet"
@@ -34553,6 +34662,7 @@ const (
 	vendord4475a = "ScreenBeam"
 	vendord4482d = "Shenzhen Deejoy Lighting Technology"
 	vendord44867 = "Silicon Laboratories"
+	vendord44a85 = "Silicon Laboratories"
 	vendord44b5e = "TAIYO YUDEN"
 	vendord44bb6 = "Zhejiang Tmall Technology"
 	vendord44c24 = "Vuppalamritha Magnetic Components"
@@ -34565,6 +34675,7 @@ const (
 	vendord44f67 = "HUAWEI TECHNOLOGIES"
 	vendord44f68 = "Eidetic Communications"
 	vendord44f80 = "Kemper Digital"
+	vendord45039 = "Sagemcom Broadband SAS"
 	vendord4503f = "GUANGDONG OPPO MOBILE TELECOMMUNICATIONS"
 	vendord4507a = "CEIVA Logic"
 	vendord450ee = "GD Midea Air-Conditioning Equipment"
@@ -34612,6 +34723,7 @@ const (
 	vendord463fe = "Arcadyan"
 	vendord464f7 = "CHENGDU USEE DIGITAL TECHNOLOGY"
 	vendord46624 = "Cisco Systems"
+	vendord46663 = "Shenzhen Detran Technology"
 	vendord466a8 = "Riedo Networks"
 	vendord46761 = "XonTel Technology"
 	vendord467d3 = "GUANGDONG OPPO MOBILE TELECOMMUNICATIONS"
@@ -34727,6 +34839,7 @@ const (
 	vendord49e6d = "Wuhan Zhongyuan Huadian Science & Technology Co.,"
 	vendord49f29 = "Fiberhome Telecommunication Technologies"
 	vendord49fdd = "Huawei Device"
+	vendord49ff9 = "Earda Technologies"
 	vendord4a02a = "Cisco Systems"
 	vendord4a0fb = "IEEE Registration Authority"
 	vendord4a148 = "HUAWEI TECHNOLOGIES"
@@ -34795,6 +34908,7 @@ const (
 	vendord4ca6e = "u-blox AG"
 	vendord4cbaf = "Nokia"
 	vendord4cbcc = "vivo Mobile Communication"
+	vendord4ce40 = "Apple"
 	vendord4ceb8 = "Enatel"
 	vendord4cf37 = "Symbolic IO"
 	vendord4cff9 = "Shenzhen SEI Robotics"
@@ -35033,6 +35147,7 @@ const (
 	vendord85b22 = "Shenzhen Hohunet Technology"
 	vendord85b27 = "WNC"
 	vendord85b2a = "Samsung Electronics"
+	vendord85c11 = "Optiview USA"
 	vendord85d4c = "TP-LINK TECHNOLOGIES"
 	vendord85d84 = "CAx soft"
 	vendord85de2 = "Hon Hai Precision Ind."
@@ -35044,6 +35159,7 @@ const (
 	vendord860b3 = "Guangdong Global Electronic Technology CO.，"
 	vendord86162 = "WNC"
 	vendord86194 = "Objetivos y Sevicios de Valor Añadido"
+	vendord862ca = "Cisco Systems"
 	vendord862db = "Eno"
 	vendord8630d = "Motorola (Wuhan) Mobility Technologies Communication"
 	vendord86375 = "Xiaomi Communications"
@@ -35097,6 +35213,7 @@ const (
 	vendord881ce = "AHN"
 	vendord88332 = "TaiXin Semiconductor"
 	vendord88466 = "Extreme Networks Headquarters"
+	vendord8855e = "zte"
 	vendord885ac = "Espressif"
 	vendord8860b = "IEEE Registration Authority"
 	vendord887d5 = "Leadcore Technology"
@@ -35468,6 +35585,7 @@ const (
 	vendordc729b = "HUAWEI TECHNOLOGIES"
 	vendordc7306 = "Vantiva Connected Home - Home Networks"
 	vendordc7385 = "Huawei Device"
+	vendordc73fc = "Mellanox Technologies"
 	vendordc74a8 = "Samsung Electronics"
 	vendordc74ce = "ITOCHU Techno-Solutions"
 	vendordc76c3 = "IEEE Registration Authority"
@@ -35572,6 +35690,7 @@ const (
 	vendordcb7ac = "Hewlett Packard Enterprise"
 	vendordcb7fc = "Alps Electric (Ireland)"
 	vendordcb808 = "Extreme Networks Headquarters"
+	vendordcb87d = "Hewlett Packard Enterprise"
 	vendordcbb3d = "Extreme Networks Headquarters"
 	vendordcbb96 = "Full Solution Telecom"
 	vendordcbd7a = "Guangzhou Shiyuan Electronic Technology Company "
@@ -35885,6 +36004,7 @@ const (
 	vendore07f88 = "EVIDENCE Network SIA"
 	vendore0806b = "Xiaomi Communications"
 	vendore08177 = "GreenBytes"
+	vendore0830d = "NOTTA PTE."
 	vendore084f3 = "High Grade Controls"
 	vendore0854d = "LG Innotek"
 	vendore0859a = "SHENZHEN RF-LINK TECHNOLOGY"
@@ -36016,6 +36136,7 @@ const (
 	vendore0d1e6 = "Aliph dba Jawbone"
 	vendore0d31a = "EQUES Technology"
 	vendore0d362 = "TP-Link Systems"
+	vendore0d38e = "Chipsea Technologies (Shenzhen) Crop."
 	vendore0d3b4 = "Cisco Meraki"
 	vendore0d462 = "Huawei Device"
 	vendore0d464 = "Intel Corporate"
@@ -36085,6 +36206,7 @@ const (
 	vendore0fff1 = "Texas Instruments"
 	vendore0fff7 = "Softiron"
 	vendore40177 = "SafeOwl"
+	vendore40274 = "FW Murphy Production Controls"
 	vendore4029b = "Intel Corporate"
 	vendore40439 = "TomTom Software"
 	vendore405f8 = "Bytedance"
@@ -36093,6 +36215,7 @@ const (
 	vendore4072b = "Huawei Device"
 	vendore408e7 = "Quectel Wireless Solutions"
 	vendore40a16 = "HUAWEI TECHNOLOGIES"
+	vendore40a75 = "Silicon Laboratories"
 	vendore40cfd = "GUANGDONG OPPO MOBILE TELECOMMUNICATIONS"
 	vendore40d36 = "Intel Corporate"
 	vendore40d3b = "Ericsson AB"
@@ -36455,6 +36578,7 @@ const (
 	vendore4fae4 = "Shenzhen SDMC Technology CP,."
 	vendore4faed = "Samsung Electronics"
 	vendore4fafd = "Intel Corporate"
+	vendore4fb1e = "Microsoft"
 	vendore4fb5d = "HUAWEI TECHNOLOGIES"
 	vendore4fb8f = "MOBIWIRE MOBILES (NINGBO)"
 	vendore4fc82 = "Juniper Networks"
@@ -36519,6 +36643,7 @@ const (
 	vendore820e2 = "HUMAX"
 	vendore82281 = "GD Midea Air-Conditioning Equipment"
 	vendore822b8 = "Shenzhen Skyworth Digital  Technology"
+	vendore823fb = "Redder"
 	vendore82404 = "Quectel Wireless Solutions"
 	vendore824a6 = "Juniper Networks"
 	vendore82587 = "Shenzhen Chilink IoT Technology"
@@ -36618,6 +36743,7 @@ const (
 	vendore865d4 = "Tenda Technology Co.,Ltd.Dongguan branch"
 	vendore866c4 = "Diamanti"
 	vendore86819 = "HUAWEI TECHNOLOGIES"
+	vendore868b1 = "GUANGDONG OPPO MOBILE TELECOMMUNICATIONS"
 	vendore868e7 = "Espressif"
 	vendore86a64 = "LCFC(Hefei) Electronics Technology"
 	vendore86bea = "Espressif"
@@ -36674,6 +36800,7 @@ const (
 	vendore88e60 = "NSD"
 	vendore88f16 = "Skullcandy"
 	vendore88f6f = "TCT mobile"
+	vendore88f8e = "Hoags Technologies India Private"
 	vendore88fc4 = "MOBIWIRE MOBILES(NINGBO)"
 	vendore8910f = "Fiberhome Telecommunication Technologies"
 	vendore89120 = "Motorola Mobility LLC, a Lenovo"
@@ -36874,6 +37001,7 @@ const (
 	vendore8faf7 = "Guangdong Uniteddata Holding Group"
 	vendore8fb1c = "AzureWave Technology"
 	vendore8fbe9 = "Apple"
+	vendore8fc5f = "Ruckus Wireless"
 	vendore8fc60 = "ELCOM Innovations Private"
 	vendore8fcaf = "NETGEAR"
 	vendore8fd35 = "Huawei Device"
@@ -36957,6 +37085,7 @@ const (
 	vendorec30dd = "eero"
 	vendorec3111 = "Sichuan AI-Link Technology"
 	vendorec314a = "Chengdu Quanjing Intelligent Technology"
+	vendorec315f = "Amazon Technologies"
 	vendorec316d = "Hansgrohe"
 	vendorec34e2 = "Private"
 	vendorec3532 = "Tactrix"
@@ -37047,9 +37176,11 @@ const (
 	vendorec6cb5 = "zte"
 	vendorec6e79 = "InHand Networks"
 	vendorec6f0b = "FADU"
+	vendorec6ff9 = "Pioseed Technology(Chengdu)"
 	vendorec7097 = "Commscope"
 	vendorec71db = "Reolink Innovation"
 	vendorec725b = "zte"
+	vendorec72f7 = "DJI BAIWANG TECHNOLOGY"
 	vendorec7359 = "Shenzhen Cloudsky Technologies"
 	vendorec7379 = "Apple"
 	vendorec73f6 = "Sichuan AI-Link Technology"
@@ -37164,6 +37295,7 @@ const (
 	vendorecb50a = "Quectel Wireless Solutions"
 	vendorecb541 = "SHINANO E and E"
 	vendorecb550 = "Samsung Electronics"
+	vendorecb5af = "RayService a.s."
 	vendorecb5fa = "Philips Lighting BV"
 	vendorecb870 = "Beijing Heweinet Technology"
 	vendorecb878 = "Huawei Device"
@@ -37571,6 +37703,7 @@ const (
 	vendorf0cce0 = "Shenzhen All-Smartlink Technology"
 	vendorf0cd31 = "Samsung Electronics"
 	vendorf0cf4d = "BitRecords"
+	vendorf0d018 = "Hewlett Packard Enterprise"
 	vendorf0d08c = "TCT mobile"
 	vendorf0d14f = "LINEAR"
 	vendorf0d1a9 = "Apple"
@@ -37696,6 +37829,7 @@ const (
 	vendorf41a79 = "IEEE Registration Authority"
 	vendorf41a9c = "Xiaomi Communications"
 	vendorf41ab0 = "Shenzhen Xingguodu Technology"
+	vendorf41af7 = "zte"
 	vendorf41ba1 = "Apple"
 	vendorf41c26 = "AltoBeam"
 	vendorf41c71 = "SHENZHEN SANMU COMMUNICATION TECHNOLOGY"
@@ -38105,11 +38239,13 @@ const (
 	vendorf81a2b = "Google"
 	vendorf81a67 = "TP-LINK TECHNOLOGIES"
 	vendorf81b04 = "Zhong Shan City Richsound Electronic Industrial"
+	vendorf81b2e = "G.Tech Technology"
 	vendorf81ce5 = "Telefonbau Behnke"
 	vendorf81d0f = "Hitron Technologies."
 	vendorf81d78 = "IEEE Registration Authority"
 	vendorf81d90 = "Solidwintech"
 	vendorf81d93 = "Longdhua(Beijing) Controls Technology"
+	vendorf81e49 = "Apple"
 	vendorf81e6f = "EBG compleo"
 	vendorf81edf = "Apple"
 	vendorf81f32 = "Motorola Mobility LLC, a Lenovo"
@@ -38412,6 +38548,7 @@ const (
 	vendorf8ca59 = "NetComm Wireless"
 	vendorf8ca85 = "NEC"
 	vendorf8cab8 = "Dell"
+	vendorf8cb15 = "Apple"
 	vendorf8cc6e = "DEPO Electronics"
 	vendorf8cdc8 = "Sichuan Tianyi Comheart Telecom"
 	vendorf8ce07 = "ZHEJIANG DAHUA TECHNOLOGY"
@@ -38447,6 +38584,7 @@ const (
 	vendorf8df15 = "Sunitec Enterprise"
 	vendorf8dfa8 = "zte"
 	vendorf8dfe1 = "MyLight Systems"
+	vendorf8e000 = "FUJI ELECTRIC"
 	vendorf8e079 = "Motorola Mobility LLC, a Lenovo"
 	vendorf8e252 = "Apple"
 	vendorf8e35f = "Sichuan Tianyi Comheart Telecom"
@@ -38867,6 +39005,7 @@ const (
 	vendorfce23f = "CLAY PAKY SPA"
 	vendorfce26c = "Apple"
 	vendorfce33c = "HUAWEI TECHNOLOGIES"
+	vendorfce421 = "zhejiang Dusun Electron"
 	vendorfce498 = "IEEE Registration Authority"
 	vendorfce557 = "Nokia"
 	vendorfce66a = "Industrial Software"
@@ -42170,7 +42309,7 @@ var ouis = map[string]string{
 	"000cdb": vendor000cdb, // Brocade Communications Systems
 	"000cdc": vendor000cdc, // BECS Technology
 	"000cdd": vendor000cdd, // AOS technologies AG
-	"000cde": vendor000cde, // ABB STOTZ-KONTAKT
+	"000cde": vendor000cde, // ABB AG
 	"000cdf": vendor000cdf, // JAI Manufacturing
 	"000ce0": vendor000ce0, // Trek Diagnostics
 	"000ce1": vendor000ce1, // The Open Group
@@ -43675,7 +43814,7 @@ var ouis = map[string]string{
 	"0012bc": vendor0012bc, // Echolab
 	"0012bd": vendor0012bd, // Avantec Manufacturing
 	"0012be": vendor0012be, // Astek
-	"0012bf": vendor0012bf, // Arcadyan Technology
+	"0012bf": vendor0012bf, // Arcadyan
 	"0012c0": vendor0012c0, // HotLava Systems
 	"0012c1": vendor0012c1, // Check Point Software Technologies
 	"0012c2": vendor0012c2, // Apex Electronics Factory
@@ -44794,7 +44933,7 @@ var ouis = map[string]string{
 	"00171b": vendor00171b, // Innovation Lab
 	"00171c": vendor00171c, // NT MicroSystems
 	"00171d": vendor00171d, // DIGIT
-	"00171e": vendor00171e, // Theo Benning GmbH & Co. KG
+	"00171e": vendor00171e, // Benning Elektrotechnik und Elektronik GmbH & Co. KG
 	"00171f": vendor00171f, // IMV
 	"001720": vendor001720, // Image Sensing Systems
 	"001721": vendor001721, // FITRE S.p.A.
@@ -45574,7 +45713,7 @@ var ouis = map[string]string{
 	"001a27": vendor001a27, // Ubistar
 	"001a28": vendor001a28, // ASWT Co., LTD. Taiwan Branch H.K.
 	"001a29": vendor001a29, // Johnson Outdoors Marine Electronics d/b/a Minnkota
-	"001a2a": vendor001a2a, // Arcadyan Technology
+	"001a2a": vendor001a2a, // Arcadyan
 	"001a2b": vendor001a2b, // Ayecom Technology
 	"001a2c": vendor001a2c, // SATEC
 	"001a2d": vendor001a2d, // The Navvo Group
@@ -46325,7 +46464,7 @@ var ouis = map[string]string{
 	"001d16": vendor001d16, // SFR
 	"001d17": vendor001d17, // Digital Sky
 	"001d18": vendor001d18, // Power Innovation
-	"001d19": vendor001d19, // Arcadyan Technology
+	"001d19": vendor001d19, // Arcadyan
 	"001d1a": vendor001d1a, // OvisLink S.A.
 	"001d1b": vendor001d1b, // Sangean Electronics
 	"001d1c": vendor001d1c, // Gennet s.a.
@@ -47844,7 +47983,7 @@ var ouis = map[string]string{
 	"002305": vendor002305, // Cisco Systems
 	"002306": vendor002306, // ALPSALPINE CO,.
 	"002307": vendor002307, // FUTURE INNOVATION TECH
-	"002308": vendor002308, // Arcadyan Technology
+	"002308": vendor002308, // Arcadyan
 	"002309": vendor002309, // Janam Technologies
 	"00230a": vendor00230a, // ARBURG GmbH & Co KG
 	"00230b": vendor00230b, // Commscope
@@ -48263,7 +48402,7 @@ var ouis = map[string]string{
 	"0024ab": vendor0024ab, // A7 Engineering
 	"0024ac": vendor0024ac, // Hangzhou DPtech Technologies
 	"0024ad": vendor0024ad, // Adolf Thies Gmbh & Co. KG
-	"0024ae": vendor0024ae, // IDEMIA FRANCE SAS
+	"0024ae": vendor0024ae, // IDEMIA PUBLIC SECURITY FRANCE
 	"0024af": vendor0024af, // Dish Technologies
 	"0024b0": vendor0024b0, // ESAB AB
 	"0024b1": vendor0024b1, // Coulomb Technologies
@@ -48673,7 +48812,7 @@ var ouis = map[string]string{
 	"002648": vendor002648, // Emitech
 	"00264a": vendor00264a, // Apple
 	"00264c": vendor00264c, // Shanghai DigiVision Technology
-	"00264d": vendor00264d, // Arcadyan Technology
+	"00264d": vendor00264d, // Arcadyan
 	"00264e": vendor00264e, // r2p
 	"00264f": vendor00264f, // Krüger &Gothe
 	"002650": vendor002650, // 2Wire
@@ -50064,6 +50203,7 @@ var ouis = map[string]string{
 	"00763d": vendor00763d, // Veea
 	"007686": vendor007686, // Cisco Systems
 	"0076b1": vendor0076b1, // Somfy-Protect By Myfox SAS
+	"0076b6": vendor0076b6, // Ford Motor
 	"00778d": vendor00778d, // Cisco Systems
 	"0077e4": vendor0077e4, // Nokia Solutions and Networks GmbH & Co. KG
 	"007839": vendor007839, // Nokia
@@ -50078,6 +50218,7 @@ var ouis = map[string]string{
 	"007dfa": vendor007dfa, // Volkswagen Group of America
 	"007e56": vendor007e56, // China Dragon Technology
 	"007e95": vendor007e95, // Cisco Systems
+	"007f1d": vendor007f1d, // Fantasia Trading
 	"007f28": vendor007f28, // Actiontec Electronics
 	"008000": vendor008000, // MULTITECH SYSTEMS
 	"008001": vendor008001, // PERIPHONICS
@@ -52834,6 +52975,7 @@ var ouis = map[string]string{
 	"08cca7": vendor08cca7, // Cisco Systems
 	"08cd9b": vendor08cd9b, // samtec automotive electronics & software
 	"08ce94": vendor08ce94, // EM Microelectronic
+	"08d01e": vendor08d01e, // Juniper Networks
 	"08d09f": vendor08d09f, // Cisco Systems
 	"08d0b7": vendor08d0b7, // Qingdao Hisense Communications
 	"08d1f9": vendor08d1f9, // Espressif
@@ -53054,6 +53196,7 @@ var ouis = map[string]string{
 	"0c6ac4": vendor0c6ac4, // Apple
 	"0c6ae6": vendor0c6ae6, // Stanley Security Solutions
 	"0c6e4f": vendor0c6e4f, // PrimeVOLT
+	"0c6f8b": vendor0c6f8b, // Apple
 	"0c6f9c": vendor0c6f9c, // Shaw Communications
 	"0c7043": vendor0c7043, // Sony Interactive Entertainment
 	"0c704a": vendor0c704a, // HUAWEI TECHNOLOGIES
@@ -53419,6 +53562,7 @@ var ouis = map[string]string{
 	"103917": vendor103917, // Samsung Electronics
 	"10394e": vendor10394e, // Hisense broadband multimedia technology
 	"1039e9": vendor1039e9, // Juniper Networks
+	"103a5d": vendor103a5d, // Emerson
 	"103b59": vendor103b59, // Samsung Electronics
 	"103c59": vendor103c59, // zte
 	"103d0a": vendor103d0a, // Hui Zhou Gaoshengda Technology
@@ -53441,6 +53585,7 @@ var ouis = map[string]string{
 	"104780": vendor104780, // HUAWEI TECHNOLOGIES
 	"1047e7": vendor1047e7, // Shenzhen YOUHUA Technology
 	"1048b1": vendor1048b1, // Beijing Duokan Technology
+	"10490e": vendor10490e, // HUAWEI TECHNOLOGIES
 	"104963": vendor104963, // HARTING K.K.
 	"104a7d": vendor104a7d, // Intel Corporate
 	"104b46": vendor104b46, // Mitsubishi Electric
@@ -53643,6 +53788,7 @@ var ouis = map[string]string{
 	"10c07c": vendor10c07c, // Blu-ray Disc Association
 	"10c0d5": vendor10c0d5, // HOLOEYE Photonics AG
 	"10c172": vendor10c172, // HUAWEI TECHNOLOGIES
+	"10c197": vendor10c197, // Xiaomi Communications
 	"10c22f": vendor10c22f, // China Entropy
 	"10c25a": vendor10c25a, // Vantiva USA
 	"10c2ba": vendor10c2ba, // UTT
@@ -53706,6 +53852,7 @@ var ouis = map[string]string{
 	"10e4af": vendor10e4af, // APR
 	"10e4c2": vendor10e4c2, // Samsung Electronics
 	"10e66b": vendor10e66b, // Kaon Broadband
+	"10e676": vendor10e676, // Cisco Systems
 	"10e68f": vendor10e68f, // KWANGSUNG ELECTRONICS KOREA
 	"10e6ae": vendor10e6ae, // Source Technologies
 	"10e77a": vendor10e77a, // STMicrolectronics International NV
@@ -53760,6 +53907,7 @@ var ouis = map[string]string{
 	"140808": vendor140808, // Espressif
 	"1409b4": vendor1409b4, // zte
 	"1409dc": vendor1409dc, // HUAWEI TECHNOLOGIES
+	"140a02": vendor140a02, // SHENZHEN BILIAN ELECTRONIC CO.，
 	"140a29": vendor140a29, // Tiinlab
 	"140ac5": vendor140ac5, // Amazon Technologies
 	"140b9e": vendor140b9e, // Samsung Electronics
@@ -54354,7 +54502,7 @@ var ouis = map[string]string{
 	"188219": vendor188219, // Alibaba Cloud Computing
 	"18828c": vendor18828c, // Arcadyan
 	"188331": vendor188331, // Samsung Electronics
-	"1883bf": vendor1883bf, // Arcadyan Technology
+	"1883bf": vendor1883bf, // Arcadyan
 	"188410": vendor188410, // CoreTrust
 	"1884c1": vendor1884c1, // Guangzhou Shiyuan Electronic Technology
 	"188637": vendor188637, // INGRAM MICRO SERVICES
@@ -54402,6 +54550,7 @@ var ouis = map[string]string{
 	"189e2d": vendor189e2d, // Allwinner Technology
 	"189ead": vendor189ead, // Shenzhen Chengqian Information Technology
 	"189efc": vendor189efc, // Apple
+	"18a084": vendor18a084, // Apple
 	"18a28a": vendor18a28a, // Essel-T
 	"18a3e8": vendor18a3e8, // Fiberhome Telecommunication Technologies
 	"18a4a9": vendor18a4a9, // Vanu
@@ -54441,6 +54590,7 @@ var ouis = map[string]string{
 	"18b6f7": vendor18b6f7, // NEW POS TECHNOLOGY
 	"18b79e": vendor18b79e, // Invoxia
 	"18b81f": vendor18b81f, // Commscope
+	"18b842": vendor18b842, // Apple
 	"18b905": vendor18b905, // Hong Kong Bouffalo Lab
 	"18b96e": vendor18b96e, // Dongguan Liesheng Electronic
 	"18bb1c": vendor18bb1c, // Huawei Device
@@ -54533,6 +54683,7 @@ var ouis = map[string]string{
 	"18f292": vendor18f292, // Shannon Systems
 	"18f46a": vendor18f46a, // Hon Hai Precision Ind.
 	"18f46b": vendor18f46b, // Telenor Connexion AB
+	"18f58b": vendor18f58b, // GlobalReach Technology EMEA
 	"18f643": vendor18f643, // Apple
 	"18f650": vendor18f650, // Multimedia Pacific
 	"18f697": vendor18f697, // Axiom Memory Solutions
@@ -54865,7 +55016,7 @@ var ouis = map[string]string{
 	"1cc3ab": vendor1cc3ab, // Espressif
 	"1cc3eb": vendor1cc3eb, // GUANGDONG OPPO MOBILE TELECOMMUNICATIONS
 	"1cc586": vendor1cc586, // Absolute Acoustics
-	"1cc63c": vendor1cc63c, // Arcadyan Technology
+	"1cc63c": vendor1cc63c, // Arcadyan
 	"1cc72d": vendor1cc72d, // Shenzhen Huapu Digital
 	"1cc8c1": vendor1cc8c1, // HongKong YiTong Technology
 	"1cc992": vendor1cc992, // Honor Device
@@ -54897,6 +55048,7 @@ var ouis = map[string]string{
 	"1ce192": vendor1ce192, // Qisda
 	"1ce209": vendor1ce209, // Apple
 	"1ce2cc": vendor1ce2cc, // Texas Instruments
+	"1ce4dd": vendor1ce4dd, // Technicolor (China) Technology
 	"1ce504": vendor1ce504, // HUAWEI TECHNOLOGIES
 	"1ce57f": vendor1ce57f, // Samsung Electronics
 	"1ce61d": vendor1ce61d, // Samsung Electronics
@@ -55054,6 +55206,7 @@ var ouis = map[string]string{
 	"20406a": vendor20406a, // AMPAK Technology
 	"20415a": vendor20415a, // Smarteh d.o.o.
 	"204181": vendor204181, // ESYSE GmbH Embedded Systems Engineering
+	"2041bc": vendor2041bc, // ANY Electronics
 	"2043a8": vendor2043a8, // Espressif
 	"20443a": vendor20443a, // Schneider Electric Asia Pacific
 	"204441": vendor204441, // Remote Solution
@@ -55216,6 +55369,7 @@ var ouis = map[string]string{
 	"20af1b": vendor20af1b, // SteelSeries ApS
 	"20b001": vendor20b001, // Vantiva Technologies Belgium
 	"20b0f7": vendor20b0f7, // Enclustra
+	"20b37f": vendor20b37f, // IEEE Registration Authority
 	"20b399": vendor20b399, // Enterasys
 	"20b5c6": vendor20b5c6, // Mimosa Networks
 	"20b730": vendor20b730, // TeconGroup
@@ -55534,6 +55688,7 @@ var ouis = map[string]string{
 	"247d4d": vendor247d4d, // Texas Instruments
 	"247e12": vendor247e12, // Cisco Systems
 	"247e51": vendor247e51, // zte
+	"247e7f": vendor247e7f, // D-Fend Solutions A.D
 	"247f20": vendor247f20, // Sagemcom Broadband SAS
 	"247f3c": vendor247f3c, // HUAWEI TECHNOLOGIES
 	"248000": vendor248000, // Westcontrol AS
@@ -55944,6 +56099,7 @@ var ouis = map[string]string{
 	"2884fa": vendor2884fa, // SHARP
 	"28852d": vendor28852d, // Touch Networks
 	"2885bb": vendor2885bb, // Zen Exim Pvt.
+	"28875f": vendor28875f, // Annapurna labs
 	"288761": vendor288761, // LG Innotek
 	"2887ba": vendor2887ba, // TP-Link Systems
 	"288915": vendor288915, // CashGuard Sverige AB
@@ -56203,6 +56359,7 @@ var ouis = map[string]string{
 	"2c1b3a": vendor2c1b3a, // Hui Zhou Gaoshengda Technology
 	"2c1bc8": vendor2c1bc8, // Hunan Topview Network System
 	"2c1cf6": vendor2c1cf6, // Alien Green
+	"2c1cf7": vendor2c1cf7, // Apple
 	"2c1db8": vendor2c1db8, // Commscope
 	"2c1e4f": vendor2c1e4f, // Chengdu Qianli Network Technology
 	"2c1eea": vendor2c1eea, // AERODEV
@@ -56437,6 +56594,7 @@ var ouis = map[string]string{
 	"2cab46": vendor2cab46, // Ruckus Wireless
 	"2caba4": vendor2caba4, // Cisco SPVTG
 	"2cabeb": vendor2cabeb, // Cisco Systems
+	"2cabee": vendor2cabee, // EM Microelectronic
 	"2cac44": vendor2cac44, // CONEXTOP
 	"2cad13": vendor2cad13, // SHENZHEN ZHILU TECHNOLOGY
 	"2cae2b": vendor2cae2b, // Samsung Electronics
@@ -56519,6 +56677,7 @@ var ouis = map[string]string{
 	"2cdda3": vendor2cdda3, // Point Grey Research
 	"2cdde9": vendor2cdde9, // Arista Networks
 	"2cdedf": vendor2cdedf, // Guangxi Konaixin Precision Technology
+	"2cdef5": vendor2cdef5, // TVS REGZA
 	"2cdf68": vendor2cdf68, // Apple
 	"2cdfe6": vendor2cdfe6, // Raisecom Technology
 	"2ce032": vendor2ce032, // TCL King Electrical Appliances(Huizhou)
@@ -56578,6 +56737,7 @@ var ouis = map[string]string{
 	"30055c": vendor30055c, // Brother industries
 	"30074d": vendor30074d, // SAMSUNG ELECTRO-MECHANICS(THAILAND)
 	"30075c": vendor30075c, // 43403
+	"30084d": vendor30084d, // Trumpf Hüttinger
 	"3009c0": vendor3009c0, // Motorola Mobility LLC, a Lenovo
 	"3009f9": vendor3009f9, // IEEE Registration Authority
 	"300a60": vendor300a60, // IEEE Registration Authority
@@ -57579,6 +57739,7 @@ var ouis = map[string]string{
 	"386b1c": vendor386b1c, // SHENZHEN MERCURY COMMUNICATION TECHNOLOGIES
 	"386bbb": vendor386bbb, // Commscope
 	"386c9b": vendor386c9b, // Ivy Biomedical
+	"386ded": vendor386ded, // Juniper Networks
 	"386e21": vendor386e21, // Wasion Group
 	"386e88": vendor386e88, // zte
 	"386ea2": vendor386ea2, // vivo Mobile Communication
@@ -57655,6 +57816,7 @@ var ouis = map[string]string{
 	"389f83": vendor389f83, // OTN Systems N.V.
 	"38a067": vendor38a067, // Nokia Solutions and Networks GmbH & Co. KG
 	"38a28c": vendor38a28c, // SHENZHEN RF-LINK TECHNOLOGY
+	"38a3e0": vendor38a3e0, // 1Finity
 	"38a44b": vendor38a44b, // Huawei Device
 	"38a4ed": vendor38a4ed, // Xiaomi Communications
 	"38a53c": vendor38a53c, // COMECER Netherlands
@@ -57684,6 +57846,7 @@ var ouis = map[string]string{
 	"38afd0": vendor38afd0, // Nevro
 	"38afd7": vendor38afd7, // FUJITSU
 	"38b12d": vendor38b12d, // Sonotronic Nagel
+	"38b14e": vendor38b14e, // IEEE Registration Authority
 	"38b19e": vendor38b19e, // IEEE Registration Authority
 	"38b1db": vendor38b1db, // Hon Hai Precision Ind.
 	"38b3f7": vendor38b3f7, // Huawei Device
@@ -57746,6 +57909,7 @@ var ouis = map[string]string{
 	"38e054": vendor38e054, // Security Design
 	"38e08e": vendor38e08e, // Mitsubishi Electric
 	"38e13d": vendor38e13d, // Apple
+	"38e158": vendor38e158, // Flaircomm Microelectronics
 	"38e1aa": vendor38e1aa, // zte
 	"38e1f4": vendor38e1f4, // Sagemcom Broadband SAS
 	"38e26e": vendor38e26e, // ShenZhen Sweet Rain Electronics
@@ -58021,6 +58185,7 @@ var ouis = map[string]string{
 	"3c7c3f": vendor3c7c3f, // ASUSTek COMPUTER
 	"3c7d0a": vendor3c7d0a, // Apple
 	"3c7db1": vendor3c7db1, // Texas Instruments
+	"3c7f6e": vendor3c7f6e, // Xiaomi Communications
 	"3c7f6f": vendor3c7f6f, // Telechips
 	"3c806b": vendor3c806b, // Hunan Voc Acoustics Technology
 	"3c80aa": vendor3c80aa, // Ransnet Singapore Pte
@@ -58119,6 +58284,7 @@ var ouis = map[string]string{
 	"3cb792": vendor3cb792, // Hitachi Maxell, Ltd., Optronics Division
 	"3cb87a": vendor3cb87a, // Private
 	"3cb8d6": vendor3cb8d6, // Bluebank Communication Technology
+	"3cb922": vendor3cb922, // HUAWEI TECHNOLOGIES
 	"3cb9a6": vendor3cb9a6, // Belden Deutschland
 	"3cbb73": vendor3cbb73, // Shenzhen Xinguodu Technology
 	"3cbbfd": vendor3cbbfd, // Samsung Electronics
@@ -58131,6 +58297,7 @@ var ouis = map[string]string{
 	"3cbe8e": vendor3cbe8e, // Guangzhou Shiyuan Electronic Technology
 	"3cbee1": vendor3cbee1, // NIKON
 	"3cbf60": vendor3cbf60, // Apple
+	"3cbfd7": vendor3cbfd7, // Apple
 	"3cc03e": vendor3cc03e, // HUAWEI TECHNOLOGIES
 	"3cc079": vendor3cc079, // Shenzhen One-Nine Intelligent Electronic Science and Technology
 	"3cc0c6": vendor3cc0c6, // d&b audiotechnik
@@ -58413,6 +58580,7 @@ var ouis = map[string]string{
 	"407875": vendor407875, // IMBEL - Industria de Material Belico do Brasil
 	"407911": vendor407911, // Apple
 	"407912": vendor407912, // Texas Instruments
+	"407955": vendor407955, // Datacolor
 	"407a80": vendor407a80, // Nokia
 	"407aa4": vendor407aa4, // ZHEJIANG DAHUA TECHNOLOGY
 	"407b1b": vendor407b1b, // Mettle Networks
@@ -58522,6 +58690,7 @@ var ouis = map[string]string{
 	"40b89a": vendor40b89a, // Hon Hai Precision Ind.
 	"40b8c2": vendor40b8c2, // OSMOZIS
 	"40b93c": vendor40b93c, // Hewlett Packard Enterprise
+	"40ba09": vendor40ba09, // Dell
 	"40ba61": vendor40ba61, // ARIMA Communications
 	"40bb56": vendor40bb56, // TeraNXT Global India Pvt
 	"40bc60": vendor40bc60, // Apple
@@ -58753,6 +58922,7 @@ var ouis = map[string]string{
 	"444963": vendor444963, // Woven By Toyota U.S.
 	"444988": vendor444988, // Intel Corporate
 	"444a37": vendor444a37, // Xiaomi Communications
+	"444a4c": vendor444a4c, // vivo Mobile Communication
 	"444a65": vendor444a65, // Silverflare
 	"444ab0": vendor444ab0, // Zhejiang Moorgen Intelligence Technology
 	"444ad6": vendor444ad6, // Shenzhen Rinocloud Technology
@@ -58826,6 +58996,7 @@ var ouis = map[string]string{
 	"447609": vendor447609, // New H3C Technologies
 	"447654": vendor447654, // HUAWEI TECHNOLOGIES
 	"4476e7": vendor4476e7, // TECNO MOBILE
+	"447831": vendor447831, // HUAWEI TECHNOLOGIES
 	"44783e": vendor44783e, // Samsung Electronics
 	"447bbb": vendor447bbb, // Shenzhen YOUHUA Technology
 	"447bc4": vendor447bc4, // DualShine Technology(SZ)
@@ -58862,6 +59033,7 @@ var ouis = map[string]string{
 	"448eec": vendor448eec, // China Mobile Group Device
 	"448f17": vendor448f17, // Samsung Electronics Co., Ltd. ARTIK
 	"449046": vendor449046, // Honor Device
+	"4490ba": vendor4490ba, // CHINA DRAGON TECHNOLOGY
 	"4490bb": vendor4490bb, // Apple
 	"449160": vendor449160, // Murata Manufacturing
 	"44917c": vendor44917c, // HMD Global Oy
@@ -58872,6 +59044,7 @@ var ouis = map[string]string{
 	"4495fa": vendor4495fa, // Qingdao Santong Digital Technology
 	"44962b": vendor44962b, // Aidon Oy
 	"44975a": vendor44975a, // SHENZHEN FAST TECHNOLOGIES
+	"449a52": vendor449a52, // zte
 	"449b78": vendor449b78, // The Now Factory
 	"449bc1": vendor449bc1, // HUAWEI TECHNOLOGIES
 	"449bc6": vendor449bc6, // EOSS s.r.l.
@@ -58913,6 +59086,7 @@ var ouis = map[string]string{
 	"44ae44": vendor44ae44, // Huawei Device
 	"44aeab": vendor44aeab, // GUANGDONG OPPO MOBILE TELECOMMUNICATIONS
 	"44af28": vendor44af28, // Intel Corporate
+	"44b176": vendor44b176, // Espressif
 	"44b295": vendor44b295, // Sichuan AI-Link Technology Co.,
 	"44b32d": vendor44b32d, // TP-LINK TECHNOLOGIES
 	"44b382": vendor44b382, // Kuang-chi Institute of Advanced Technology
@@ -59304,6 +59478,7 @@ var ouis = map[string]string{
 	"48a98a": vendor48a98a, // Routerboard.com
 	"48a9d2": vendor48a9d2, // WNC
 	"48aa5d": vendor48aa5d, // Store Electronic Systems
+	"48aabb": vendor48aabb, // Sagemcom Broadband SAS
 	"48ad08": vendor48ad08, // HUAWEI TECHNOLOGIES
 	"48ad9a": vendor48ad9a, // Intel Corporate
 	"48b02d": vendor48b02d, // NVIDIA
@@ -59450,7 +59625,7 @@ var ouis = map[string]string{
 	"4c07c9": vendor4c07c9, // COMPUTER OFFICE
 	"4c0997": vendor4c0997, // Arista Networks
 	"4c09b4": vendor4c09b4, // zte
-	"4c09d4": vendor4c09d4, // Arcadyan Technology
+	"4c09d4": vendor4c09d4, // Arcadyan
 	"4c09fa": vendor4c09fa, // FRONTIER SMART TECHNOLOGIES
 	"4c0a3d": vendor4c0a3d, // ADNACOM
 	"4c0a4e": vendor4c0a4e, // Extreme Networks Headquarters
@@ -59932,6 +60107,7 @@ var ouis = map[string]string{
 	"503275": vendor503275, // Samsung Electronics
 	"50338b": vendor50338b, // Texas Instruments
 	"5033f0": vendor5033f0, // YICHEN (SHENZHEN) TECHNOLOGY
+	"5037cd": vendor5037cd, // Quectel Wireless Solutions
 	"50382f": vendor50382f, // ASE Group Chung-Li
 	"5038ab": vendor5038ab, // PROVE
 	"50392f": vendor50392f, // INGRAM MICRO SERVICES
@@ -60015,12 +60191,14 @@ var ouis = map[string]string{
 	"50613f": vendor50613f, // eero
 	"50617e": vendor50617e, // Shenzhen MiaoMing Intelligent Technology
 	"506184": vendor506184, // Avaya
+	"506188": vendor506188, // PLANET Technology
 	"5061bf": vendor5061bf, // Cisco Systems
 	"5061d6": vendor5061d6, // Indu-Sol
 	"5061f6": vendor5061f6, // Universal Electronics
 	"506245": vendor506245, // Annapurna labs
 	"506255": vendor506255, // IEEE Registration Authority
 	"506313": vendor506313, // Hon Hai Precision Ind.
+	"506382": vendor506382, // HUAWEI TECHNOLOGIES
 	"506391": vendor506391, // HUAWEI TECHNOLOGIES
 	"50642b": vendor50642b, // XIAOMI Electronics
 	"506441": vendor506441, // Greenlee
@@ -60065,7 +60243,7 @@ var ouis = map[string]string{
 	"507b9d": vendor507b9d, // LCFC(Hefei) Electronics Technology
 	"507c6f": vendor507c6f, // Intel Corporate
 	"507d02": vendor507d02, // BIODIT
-	"507e5d": vendor507e5d, // Arcadyan Technology
+	"507e5d": vendor507e5d, // Arcadyan
 	"50804a": vendor50804a, // Quectel Wireless Solutions
 	"508140": vendor508140, // HP
 	"5082d5": vendor5082d5, // Apple
@@ -60344,6 +60522,7 @@ var ouis = map[string]string{
 	"54278d": vendor54278d, // NXP (China) Management
 	"542906": vendor542906, // Apple
 	"542a1b": vendor542a1b, // Sonos
+	"542a43": vendor542a43, // Apple
 	"542a9c": vendor542a9c, // LSY Defense
 	"542aa2": vendor542aa2, // Alpha Networks
 	"542b1c": vendor542b1c, // Amazon Technologies
@@ -60625,6 +60804,7 @@ var ouis = map[string]string{
 	"54e61b": vendor54e61b, // Apple
 	"54e63f": vendor54e63f, // ShenZhen LingKeWeiEr Technology
 	"54e6fc": vendor54e6fc, // TP-LINK TECHNOLOGIES
+	"54e6fd": vendor54e6fd, // Sony Interactive Entertainment
 	"54e7d5": vendor54e7d5, // Sun Cupid Technology (HK)
 	"54eaa8": vendor54eaa8, // Apple
 	"54eae1": vendor54eae1, // Honor Device
@@ -60708,6 +60888,7 @@ var ouis = map[string]string{
 	"58208a": vendor58208a, // IEEE Registration Authority
 	"5820b1": vendor5820b1, // Hewlett Packard
 	"582136": vendor582136, // KMB systems, s.r.o.
+	"58219d": vendor58219d, // Shanghai Timar Integrated Circuit
 	"5821e9": vendor5821e9, // TWPI
 	"58238c": vendor58238c, // Vantiva USA
 	"58239b": vendor58239b, // Fiberhome Telecommunication Technologies
@@ -60718,6 +60899,8 @@ var ouis = map[string]string{
 	"58263a": vendor58263a, // Silicon Laboratories
 	"582745": vendor582745, // Angelbird Technologies
 	"58278c": vendor58278c, // BUFFALO.
+	"582a93": vendor582a93, // Apple
+	"582abd": vendor582abd, // Espressif
 	"582af7": vendor582af7, // HUAWEI TECHNOLOGIES
 	"582b0a": vendor582b0a, // Texas Instruments
 	"582bdb": vendor582bdb, // Pax AB
@@ -60773,6 +60956,7 @@ var ouis = map[string]string{
 	"585595": vendor585595, // Apple
 	"5855ca": vendor5855ca, // Apple
 	"58569f": vendor58569f, // Cisco Systems
+	"5856aa": vendor5856aa, // Apple
 	"5856c2": vendor5856c2, // HUAWEI TECHNOLOGIES
 	"5856e8": vendor5856e8, // Commscope
 	"58570d": vendor58570d, // Danfoss Solar Inverters
@@ -61216,6 +61400,7 @@ var ouis = map[string]string{
 	"5c7df3": vendor5c7df3, // Fiberhome Telecommunication Technologies
 	"5c80b6": vendor5c80b6, // Intel Corporate
 	"5c81a7": vendor5c81a7, // Network Devices Pty
+	"5c8217": vendor5c8217, // DSE srl
 	"5c836c": vendor5c836c, // Ruckus Wireless
 	"5c8382": vendor5c8382, // Nokia
 	"5c838f": vendor5c838f, // Cisco Systems
@@ -61282,6 +61467,7 @@ var ouis = map[string]string{
 	"5ca6e6": vendor5ca6e6, // TP-Link Systems
 	"5ca721": vendor5ca721, // New H3C Technologies
 	"5ca86a": vendor5ca86a, // HUAWEI TECHNOLOGIES
+	"5ca931": vendor5ca931, // 38436
 	"5ca933": vendor5ca933, // Luma Home
 	"5caafd": vendor5caafd, // Sonos
 	"5cac3d": vendor5cac3d, // Samsung Electronics
@@ -61310,6 +61496,7 @@ var ouis = map[string]string{
 	"5cb901": vendor5cb901, // Hewlett Packard
 	"5cba2c": vendor5cba2c, // Hewlett Packard Enterprise
 	"5cba37": vendor5cba37, // Microsoft
+	"5cba75": vendor5cba75, // Quectel Wireless Solutions
 	"5cbaef": vendor5cbaef, // CHONGQING FUGUI ELECTRONICS
 	"5cbbee": vendor5cbbee, // zte
 	"5cbd9a": vendor5cbd9a, // Huawei Device
@@ -61361,7 +61548,7 @@ var ouis = map[string]string{
 	"5cdad4": vendor5cdad4, // Murata Manufacturing
 	"5cdb36": vendor5cdb36, // Calix
 	"5cdc49": vendor5cdc49, // Samsung Electronics
-	"5cdc96": vendor5cdc96, // Arcadyan Technology
+	"5cdc96": vendor5cdc96, // Arcadyan
 	"5cdd70": vendor5cdd70, // Hangzhou H3C Technologies
 	"5cde34": vendor5cde34, // SHENZHEN MERCURY COMMUNICATION TECHNOLOGIES
 	"5cdf89": vendor5cdf89, // Ruckus Wireless
@@ -61561,6 +61748,7 @@ var ouis = map[string]string{
 	"60512c": vendor60512c, // TCT mobile
 	"6052d0": vendor6052d0, // FACTS Engineering
 	"605317": vendor605317, // Sandstone Technologies
+	"605355": vendor605355, // HUAWEI TECHNOLOGIES
 	"605375": vendor605375, // HUAWEI TECHNOLOGIES
 	"605464": vendor605464, // Eyedro Green Solutions
 	"605556": vendor605556, // Jiangxi Risound Electronics
@@ -61670,6 +61858,7 @@ var ouis = map[string]string{
 	"6092f5": vendor6092f5, // Commscope
 	"609316": vendor609316, // Apple
 	"609532": vendor609532, // Zebra Technologies
+	"609578": vendor609578, // Samsung Electronics
 	"6095bd": vendor6095bd, // Apple
 	"6095ce": vendor6095ce, // IEEE Registration Authority
 	"6095f8": vendor6095f8, // Arcadyan
@@ -62121,6 +62310,7 @@ var ouis = map[string]string{
 	"64a837": vendor64a837, // Juni Korea
 	"64a965": vendor64a965, // Linkflow
 	"64ac2b": vendor64ac2b, // Juniper Networks
+	"64ace0": vendor64ace0, // Samsung Electronics
 	"64ae0c": vendor64ae0c, // Cisco Systems
 	"64ae88": vendor64ae88, // Polytec
 	"64aef1": vendor64aef1, // Qingdao Hisense Electronics
@@ -62166,7 +62356,9 @@ var ouis = map[string]string{
 	"64c6d2": vendor64c6d2, // Seiko Epson
 	"64c753": vendor64c753, // Apple
 	"64c901": vendor64c901, // INVENTEC
+	"64c905": vendor64c905, // Apple
 	"64c944": vendor64c944, // LARK Technologies
+	"64ca80": vendor64ca80, // Realme Chongqing Mobile Telecommunications
 	"64cb5d": vendor64cb5d, // SIA TeleSet
 	"64cb9f": vendor64cb9f, // TECNO MOBILE
 	"64cba3": vendor64cba3, // Pointmobile
@@ -62367,6 +62559,7 @@ var ouis = map[string]string{
 	"684724": vendor684724, // EM Microelectronic
 	"684749": vendor684749, // Texas Instruments
 	"684898": vendor684898, // Samsung Electronics
+	"6848b4": vendor6848b4, // AltoBeam
 	"684983": vendor684983, // HUAWEI TECHNOLOGIES
 	"684992": vendor684992, // Cisco Meraki
 	"6849b2": vendor6849b2, // CARLO GAVAZZI
@@ -62505,6 +62698,7 @@ var ouis = map[string]string{
 	"689e0b": vendor689e0b, // Cisco Systems
 	"689e19": vendor689e19, // Texas Instruments
 	"689e29": vendor689e29, // zte
+	"689e67": vendor689e67, // SHENZHEN FOCUSCOM TECHNOLOGIES
 	"689e6a": vendor689e6a, // Huawei Device
 	"689fd4": vendor689fd4, // Amazon Technologies
 	"689ff0": vendor689ff0, // zte
@@ -62562,6 +62756,7 @@ var ouis = map[string]string{
 	"68c44d": vendor68c44d, // Motorola Mobility LLC, a Lenovo
 	"68c63a": vendor68c63a, // Espressif
 	"68c6ac": vendor68c6ac, // Intel Corporate
+	"68c8c0": vendor68c8c0, // GSD VIET NAM TECHNOLOGY
 	"68c8eb": vendor68c8eb, // Rockwell Automation
 	"68c90b": vendor68c90b, // Texas Instruments
 	"68c95d": vendor68c95d, // SZ Knowact Robot Technology
@@ -62623,6 +62818,7 @@ var ouis = map[string]string{
 	"68eda4": vendor68eda4, // Shenzhen Seavo Technology
 	"68ee4b": vendor68ee4b, // Sharetronic Data Technology
 	"68ee88": vendor68ee88, // Shenzhen TINNO Mobile Technology
+	"68ee8f": vendor68ee8f, // Espressif
 	"68ee96": vendor68ee96, // Cisco SPVTG
 	"68ef43": vendor68ef43, // Apple
 	"68efa8": vendor68efa8, // AutomationDirect.com
@@ -62969,6 +63165,7 @@ var ouis = map[string]string{
 	"6cb9c5": vendor6cb9c5, // Delta Networks
 	"6cbab8": vendor6cbab8, // Sagemcom Broadband SAS
 	"6cbee9": vendor6cbee9, // Alcatel-Lucent IPD
+	"6cbf2f": vendor6cbf2f, // eero
 	"6cbfb5": vendor6cbfb5, // Noon Technology
 	"6cc147": vendor6cc147, // Xiamen Hanin Electronic Technology
 	"6cc1d2": vendor6cc1d2, // Commscope
@@ -63016,6 +63213,7 @@ var ouis = map[string]string{
 	"6cdffb": vendor6cdffb, // IEEE Registration Authority
 	"6ce01e": vendor6ce01e, // Modcam AB
 	"6ce0b0": vendor6ce0b0, // SOUND4
+	"6ce20c": vendor6ce20c, // Hangzhou SDIC Microelectronics
 	"6ce2d3": vendor6ce2d3, // New H3C Technologies
 	"6ce3b6": vendor6ce3b6, // Nera Telecommunications
 	"6ce4a4": vendor6ce4a4, // Silicon Laboratories
@@ -63254,6 +63452,7 @@ var ouis = map[string]string{
 	"70704c": vendor70704c, // Purple Communications
 	"70708b": vendor70708b, // Cisco Systems
 	"7070aa": vendor7070aa, // Amazon Technologies
+	"7070d5": vendor7070d5, // HUAWEI TECHNOLOGIES
 	"7070fc": vendor7070fc, // GOLD&WATER INDUSTRIAL
 	"7071b3": vendor7071b3, // Brain
 	"7071bc": vendor7071bc, // PEGATRON
@@ -63319,6 +63518,7 @@ var ouis = map[string]string{
 	"709383": vendor709383, // Intelligent Optical Network High Tech
 	"7093c1": vendor7093c1, // eero
 	"7093f8": vendor7093f8, // Space Monkey
+	"709684": vendor709684, // Apple
 	"709741": vendor709741, // Arcadyan
 	"709751": vendor709751, // Beijing Xiaomi Mobile Software
 	"709756": vendor709756, // Happyelectronics
@@ -63356,6 +63556,7 @@ var ouis = map[string]string{
 	"70acd7": vendor70acd7, // Shenzhen YOUHUA Technology
 	"70ad43": vendor70ad43, // Blink by Amazon
 	"70ad54": vendor70ad54, // Malvern Instruments
+	"70ae2a": vendor70ae2a, // Apple
 	"70aed5": vendor70aed5, // Apple
 	"70af09": vendor70af09, // Espressif
 	"70af24": vendor70af24, // TP Vision Belgium NV
@@ -63507,6 +63708,7 @@ var ouis = map[string]string{
 	"741213": vendor741213, // Linksys USA
 	"7412b3": vendor7412b3, // CHONGQING FUGUI ELECTRONICS
 	"7412bb": vendor7412bb, // Fiberhome Telecommunication Technologies
+	"74136a": vendor74136a, // Motorola Mobility LLC, a Lenovo
 	"7413ea": vendor7413ea, // Intel Corporate
 	"741489": vendor741489, // SRT Wireless
 	"7414d0": vendor7414d0, // Apple
@@ -63532,6 +63734,7 @@ var ouis = map[string]string{
 	"742435": vendor742435, // Huawei Device
 	"74249f": vendor74249f, // TIBRO
 	"7424ca": vendor7424ca, // Guangzhou Shiyuan Electronic Technology
+	"742554": vendor742554, // NVIDIA
 	"742584": vendor742584, // IEEE Registration Authority
 	"74258a": vendor74258a, // Hangzhou H3C Technologies
 	"7426ac": vendor7426ac, // Cisco Systems
@@ -63558,7 +63761,7 @@ var ouis = map[string]string{
 	"742f68": vendor742f68, // AzureWave Technology
 	"74309d": vendor74309d, // Infinix mobility
 	"7430af": vendor7430af, // Fiberhome Telecommunication Technologies
-	"743170": vendor743170, // Arcadyan Technology
+	"743170": vendor743170, // Arcadyan
 	"743174": vendor743174, // Apple
 	"74317e": vendor74317e, // Ruckus Wireless
 	"743256": vendor743256, // NT-ware Systemprg
@@ -63744,6 +63947,7 @@ var ouis = map[string]string{
 	"749779": vendor749779, // CLOUD NETWORK TECHNOLOGY SINGAPORE PTE.
 	"749781": vendor749781, // zte
 	"74978e": vendor74978e, // Nova Labs
+	"7498f4": vendor7498f4, // BUFFALO.
 	"749975": vendor749975, // IBM
 	"749ac0": vendor749ac0, // Cachengo
 	"749b89": vendor749b89, // HUAWEI TECHNOLOGIES
@@ -63940,6 +64144,7 @@ var ouis = map[string]string{
 	"780738": vendor780738, // Z.U.K. Elzab S.A.
 	"78078f": vendor78078f, // HUAWEI TECHNOLOGIES
 	"78084d": vendor78084d, // HUAWEI TECHNOLOGIES
+	"780a57": vendor780a57, // Shanghai Lightningsemi Technology
 	"780ac7": vendor780ac7, // Baofeng TV
 	"780b8c": vendor780b8c, // Private
 	"780c71": vendor780c71, // Inseego Wireless
@@ -64048,6 +64253,7 @@ var ouis = map[string]string{
 	"784561": vendor784561, // CyberTAN Technology
 	"7845b3": vendor7845b3, // Huawei Device
 	"7845c4": vendor7845c4, // Dell
+	"7845dc": vendor7845dc, // HUAWEI TECHNOLOGIES
 	"78465c": vendor78465c, // CLOUD NETWORK TECHNOLOGY SINGAPORE PTE.
 	"78465f": vendor78465f, // Fiberhome Telecommunication Technologies
 	"78467d": vendor78467d, // SKAIChips
@@ -64493,7 +64699,7 @@ var ouis = map[string]string{
 	"7c4d8f": vendor7c4d8f, // HP
 	"7c4e09": vendor7c4e09, // Shenzhen Skyworth Wireless Technology
 	"7c4f7d": vendor7c4f7d, // Sawwave
-	"7c4fb5": vendor7c4fb5, // Arcadyan Technology
+	"7c4fb5": vendor7c4fb5, // Arcadyan
 	"7c5049": vendor7c5049, // Apple
 	"7c5079": vendor7c5079, // Intel Corporate
 	"7c50da": vendor7c50da, // E.J Ward
@@ -64508,6 +64714,7 @@ var ouis = map[string]string{
 	"7c5758": vendor7c5758, // HP
 	"7c5a1c": vendor7c5a1c, // Sophos
 	"7c5a67": vendor7c5a67, // JNC Systems
+	"7c5c8d": vendor7c5c8d, // EM Microelectronic
 	"7c5cf8": vendor7c5cf8, // Intel Corporate
 	"7c5e98": vendor7c5e98, // eero
 	"7c604a": vendor7c604a, // Avelon
@@ -65447,7 +65654,7 @@ var ouis = map[string]string{
 	"849a40": vendor849a40, // Hangzhou Hikvision Digital Technology
 	"849c02": vendor849c02, // Druid Software
 	"849ca4": vendor849ca4, // Mimosa Networks
-	"849ca6": vendor849ca6, // Arcadyan Technology
+	"849ca6": vendor849ca6, // Arcadyan
 	"849d4b": vendor849d4b, // Shenzhen Boomtech Industrial
 	"849d64": vendor849d64, // SMC
 	"849dc2": vendor849dc2, // Shanghai MXCHIP Information Technology
@@ -65483,6 +65690,7 @@ var ouis = map[string]string{
 	"84acfb": vendor84acfb, // Crouzet Automatismes
 	"84ad58": vendor84ad58, // HUAWEI TECHNOLOGIES
 	"84ad8d": vendor84ad8d, // Apple
+	"84aede": vendor84aede, // Xiaomi Communications
 	"84af1f": vendor84af1f, // GopherTec
 	"84afec": vendor84afec, // BUFFALO.
 	"84b153": vendor84b153, // Apple
@@ -65622,7 +65830,7 @@ var ouis = map[string]string{
 	"8801f9": vendor8801f9, // Texas Instruments
 	"880264": vendor880264, // Pascal Audio
 	"88034c": vendor88034c, // WEIFANG GOERTEK ELECTRONICS
-	"880355": vendor880355, // Arcadyan Technology
+	"880355": vendor880355, // Arcadyan
 	"8803e9": vendor8803e9, // GUANGDONG OPPO MOBILE TELECOMMUNICATIONS
 	"88074b": vendor88074b, // LG Electronics (Mobile Communications)
 	"880894": vendor880894, // Skullcandy
@@ -65673,7 +65881,7 @@ var ouis = map[string]string{
 	"8823fe": vendor8823fe, // TTTech Computertechnik AG
 	"882508": vendor882508, // Meta Platforms
 	"882510": vendor882510, // Hewlett Packard Enterprise
-	"88252c": vendor88252c, // Arcadyan Technology
+	"88252c": vendor88252c, // Arcadyan
 	"882593": vendor882593, // TP-LINK TECHNOLOGIES
 	"88263f": vendor88263f, // Zhejiang Uniview Technologies
 	"88287d": vendor88287d, // AltoBeam (China)
@@ -65801,6 +66009,7 @@ var ouis = map[string]string{
 	"886eeb": vendor886eeb, // HUAWEI TECHNOLOGIES
 	"886f29": vendor886f29, // Pocketbook International SA
 	"886fd4": vendor886fd4, // Dell
+	"887015": vendor887015, // Apple
 	"887033": vendor887033, // Hangzhou Silan Microelectronic
 	"88708c": vendor88708c, // Lenovo Mobile Communication Technology
 	"8870ef": vendor8870ef, // SC Professional Trading
@@ -65821,6 +66030,7 @@ var ouis = map[string]string{
 	"887b2c": vendor887b2c, // zte
 	"887cc1": vendor887cc1, // Zebronics India Pvt
 	"887e25": vendor887e25, // Extreme Networks Headquarters
+	"887e9b": vendor887e9b, // Apple
 	"887f03": vendor887f03, // Comper Technology Investment
 	"887fd5": vendor887fd5, // zte
 	"888187": vendor888187, // Umeox Innovations
@@ -66143,6 +66353,7 @@ var ouis = map[string]string{
 	"8c4db9": vendor8c4db9, // Unmonday
 	"8c4dea": vendor8c4dea, // Cerio
 	"8c4e46": vendor8c4e46, // Motorola Mobility LLC, a Lenovo
+	"8c4ebb": vendor8c4ebb, // Amazon Technologies
 	"8c4f00": vendor8c4f00, // Espressif
 	"8c501a": vendor8c501a, // Private
 	"8c5105": vendor8c5105, // Shenzhen ireadygo Information Technology
@@ -66469,6 +66680,7 @@ var ouis = map[string]string{
 	"900d66": vendor900d66, // Digimore Electronics
 	"900dcb": vendor900dcb, // Commscope
 	"900e83": vendor900e83, // Monico Monitoring
+	"900e84": vendor900e84, // eero
 	"900e9e": vendor900e9e, // Shenzhen SuperElectron Technology
 	"900eb3": vendor900eb3, // Shenzhen Amediatech Technology
 	"900f0c": vendor900f0c, // CLOUD NETWORK TECHNOLOGY SINGAPORE PTE.
@@ -66610,6 +66822,7 @@ var ouis = map[string]string{
 	"9061ae": vendor9061ae, // Intel Corporate
 	"90623f": vendor90623f, // Apple
 	"90633b": vendor90633b, // Samsung Electronics
+	"90649b": vendor90649b, // Espressif
 	"9064ad": vendor9064ad, // HUAWEI TECHNOLOGIES
 	"906560": vendor906560, // EM Microelectronic
 	"906584": vendor906584, // Intel Corporate
@@ -67011,6 +67224,7 @@ var ouis = map[string]string{
 	"945330": vendor945330, // Hon Hai Precision Ind.
 	"9453ff": vendor9453ff, // Intel Corporate
 	"945493": vendor945493, // Rigado
+	"9454a0": vendor9454a0, // Fosilicon
 	"9454c5": vendor9454c5, // Espressif
 	"9454ce": vendor9454ce, // GUANGDONG OPPO MOBILE TELECOMMUNICATIONS
 	"9454df": vendor9454df, // YST
@@ -67373,6 +67587,7 @@ var ouis = map[string]string{
 	"9829a6": vendor9829a6, // COMPAL INFORMATION (KUNSHAN)
 	"982a0a": vendor982a0a, // Intelbras
 	"982afd": vendor982afd, // HUAWEI TECHNOLOGIES
+	"982ba6": vendor982ba6, // Motorola Mobility LLC, a Lenovo
 	"982cbc": vendor982cbc, // Intel Corporate
 	"982cbe": vendor982cbe, // 2Wire
 	"982cc6": vendor982cc6, // SERNET (SUZHOU) TECHNOLOGIES
@@ -67398,6 +67613,7 @@ var ouis = map[string]string{
 	"983a1f": vendor983a1f, // Google
 	"983b16": vendor983b16, // AMPAK Technology
 	"983b67": vendor983b67, // DWnet Technologies(Suzhou)
+	"983b8a": vendor983b8a, // Sekisui Jushi CAP-AI System
 	"983b8f": vendor983b8f, // Intel Corporate
 	"983c8c": vendor983c8c, // Apple
 	"983dae": vendor983dae, // Espressif
@@ -67902,7 +68118,7 @@ var ouis = map[string]string{
 	"9c7f57": vendor9c7f57, // UNIC Memory Technology
 	"9c7f81": vendor9c7f81, // SHENZHEN FAST TECHNOLOGIES
 	"9c807d": vendor9c807d, // SYSCABLE Korea
-	"9c80df": vendor9c80df, // Arcadyan Technology
+	"9c80df": vendor9c80df, // Arcadyan
 	"9c823f": vendor9c823f, // Huawei Device
 	"9c8275": vendor9c8275, // Yichip Microelectronics (Hangzhou)
 	"9c8281": vendor9c8281, // vivo Mobile Communication
@@ -68020,9 +68236,11 @@ var ouis = map[string]string{
 	"9cc9eb": vendor9cc9eb, // NETGEAR
 	"9ccad9": vendor9ccad9, // Nokia
 	"9ccbf7": vendor9ccbf7, // CLOUD STAR TECHNOLOGY
+	"9ccc01": vendor9ccc01, // Espressif
 	"9ccc83": vendor9ccc83, // Juniper Networks
 	"9ccd42": vendor9ccd42, // Dongguan Liesheng Electronic
 	"9ccd82": vendor9ccd82, // CHENG UEI PRECISION INDUSTRY
+	"9cce22": vendor9cce22, // PROMED Soest
 	"9cce88": vendor9cce88, // Ruijie Networks
 	"9cd1d0": vendor9cd1d0, // Guangzhou Ronsuo Electronic Technology
 	"9cd21e": vendor9cd21e, // Hon Hai Precision Ind.
@@ -68748,6 +68966,7 @@ var ouis = map[string]string{
 	"a49340": vendora49340, // Beijing Supvan Information Technology
 	"a4934c": vendora4934c, // Cisco Systems
 	"a493ad": vendora493ad, // Huawei Device
+	"a493fe": vendora493fe, // HUAWEI TECHNOLOGIES
 	"a49426": vendora49426, // Elgama-Elektronika
 	"a494dc": vendora494dc, // Infinite Clouds
 	"a49700": vendora49700, // Cisco Systems
@@ -68874,6 +69093,7 @@ var ouis = map[string]string{
 	"a4d5c2": vendora4d5c2, // Hangzhou Hikvision Digital Technology
 	"a4d73c": vendora4d73c, // Seiko Epson
 	"a4d795": vendora4d795, // Wingtech Mobile Communications
+	"a4d7d6": vendora4d7d6, // Shenzhen Linkoh Network Technology Co;
 	"a4d856": vendora4d856, // Gimbal
 	"a4d8ca": vendora4d8ca, // HONG KONG WATER WORLD TECHNOLOGY
 	"a4d931": vendora4d931, // Apple
@@ -69084,6 +69304,7 @@ var ouis = map[string]string{
 	"a85e45": vendora85e45, // ASUSTek COMPUTER
 	"a85ee4": vendora85ee4, // 12Sided Technology
 	"a85ef2": vendora85ef2, // TECNO MOBILE
+	"a85f61": vendora85f61, // Apple
 	"a860b6": vendora860b6, // Apple
 	"a8610a": vendora8610a, // ARDUINO AG
 	"a861aa": vendora861aa, // Cloudview
@@ -69260,7 +69481,7 @@ var ouis = map[string]string{
 	"a8d162": vendora8d162, // Samsung Electronics
 	"a8d236": vendora8d236, // Lightware Visual Engineering
 	"a8d3c8": vendora8d3c8, // Wachendorff Automation GmbH & CO.KG
-	"a8d3f7": vendora8d3f7, // Arcadyan Technology
+	"a8d3f7": vendora8d3f7, // Arcadyan
 	"a8d409": vendora8d409, // USA 111
 	"a8d498": vendora8d498, // Avira Operations GmbH & Co. KG
 	"a8d4e0": vendora8d4e0, // HUAWEI TECHNOLOGIES
@@ -69438,6 +69659,7 @@ var ouis = map[string]string{
 	"ac4330": vendorac4330, // Versa Networks
 	"ac44f2": vendorac44f2, // YAMAHA
 	"ac4500": vendorac4500, // Apple
+	"ac45b0": vendorac45b0, // Shenzhen Jidao Technology
 	"ac45ca": vendorac45ca, // GUANGDONG OPPO MOBILE TELECOMMUNICATIONS
 	"ac45ef": vendorac45ef, // Intel Corporate
 	"ac471b": vendorac471b, // Huawei Device
@@ -69711,6 +69933,7 @@ var ouis = map[string]string{
 	"ace42e": vendorace42e, // SK hynix
 	"ace4b5": vendorace4b5, // Apple
 	"ace5f0": vendorace5f0, // Doppler Labs
+	"ace606": vendorace606, // Honor Device
 	"ace64b": vendorace64b, // Shenzhen Baojia Battery Technology
 	"ace6bb": vendorace6bb, // Google
 	"ace77b": vendorace77b, // Sichuan Tianyi Comheart Telecom
@@ -69807,6 +70030,7 @@ var ouis = map[string]string{
 	"b0285b": vendorb0285b, // JUHUA Technology
 	"b02a1f": vendorb02a1f, // Wingtech Group (HongKong）
 	"b02a43": vendorb02a43, // Google
+	"b02b64": vendorb02b64, // Cisco Systems
 	"b02eba": vendorb02eba, // Earda Technologies
 	"b02ee0": vendorb02ee0, // Huawei Device
 	"b03055": vendorb03055, // China Mobile IOT
@@ -69924,6 +70148,7 @@ var ouis = map[string]string{
 	"b0793c": vendorb0793c, // Revolv
 	"b07994": vendorb07994, // Motorola Mobility LLC, a Lenovo
 	"b07a16": vendorb07a16, // ROEHN
+	"b07aa4": vendorb07aa4, // Guangzhou Punp Electronics Manufacturing
 	"b07adf": vendorb07adf, // HUAWEI TECHNOLOGIES
 	"b07b25": vendorb07b25, // Dell
 	"b07c51": vendorb07c51, // Ruckus Wireless
@@ -70118,6 +70343,7 @@ var ouis = map[string]string{
 	"b0ee45": vendorb0ee45, // AzureWave Technology
 	"b0ee7b": vendorb0ee7b, // Roku
 	"b0f00c": vendorb0f00c, // Dongguan Wecxw
+	"b0f079": vendorb0f079, // GUANGDONG OPPO MOBILE TELECOMMUNICATIONS
 	"b0f1a3": vendorb0f1a3, // Fengfan (BeiJing) Technology
 	"b0f1ae": vendorb0f1ae, // eero
 	"b0f1bc": vendorb0f1bc, // Dhemax Ingenieros Ltda
@@ -70413,6 +70639,7 @@ var ouis = map[string]string{
 	"b4b542": vendorb4b542, // Hubbell Power Systems
 	"b4b5af": vendorb4b5af, // Minsung Electronics
 	"b4b5b6": vendorb4b5b6, // CHONGQING FUGUI ELECTRONICS
+	"b4b650": vendorb4b650, // Realme Chongqing Mobile Telecommunications
 	"b4b676": vendorb4b676, // Intel Corporate
 	"b4b686": vendorb4b686, // Hewlett Packard
 	"b4b742": vendorb4b742, // Amazon Technologies
@@ -70548,6 +70775,7 @@ var ouis = map[string]string{
 	"b808cf": vendorb808cf, // Intel Corporate
 	"b808d7": vendorb808d7, // HUAWEI TECHNOLOGIES
 	"b8098a": vendorb8098a, // Apple
+	"b80b9a": vendorb80b9a, // HUAWEI TECHNOLOGIES
 	"b80b9d": vendorb80b9d, // ROPEX Industrie-Elektronik
 	"b80bda": vendorb80bda, // GD Midea Air-Conditioning Equipment
 	"b810d4": vendorb810d4, // Masimo
@@ -70608,6 +70836,7 @@ var ouis = map[string]string{
 	"b83765": vendorb83765, // GUANGDONG OPPO MOBILE TELECOMMUNICATIONS
 	"b837b2": vendorb837b2, // Hewlett Packard Enterprise
 	"b83861": vendorb83861, // Cisco Systems
+	"b83865": vendorb83865, // Hewlett Packard Enterprise
 	"b838ca": vendorb838ca, // Kyokko Tsushin System
 	"b838ef": vendorb838ef, // ADVA Optical Networking
 	"b83a08": vendorb83a08, // Tenda Technology Co.,Ltd.Dongguan branch
@@ -70655,6 +70884,7 @@ var ouis = map[string]string{
 	"b85600": vendorb85600, // HUAWEI TECHNOLOGIES
 	"b856bd": vendorb856bd, // ITT
 	"b85776": vendorb85776, // lignex1
+	"b857d6": vendorb857d6, // Cisco Systems
 	"b857d8": vendorb857d8, // Samsung Electronics
 	"b85810": vendorb85810, // NUMERA
 	"b858ff": vendorb858ff, // Arista Networks
@@ -70727,6 +70957,7 @@ var ouis = map[string]string{
 	"b88687": vendorb88687, // Liteon Technology
 	"b8871e": vendorb8871e, // Good Mind Industries
 	"b8876e": vendorb8876e, // Intertech Services AG
+	"b88788": vendorb88788, // HP
 	"b887a8": vendorb887a8, // Step Ahead Innovations
 	"b887c6": vendorb887c6, // Prudential Technology
 	"b88880": vendorb88880, // Shanghai Imilab Technology
@@ -70869,6 +71100,7 @@ var ouis = map[string]string{
 	"b8d50b": vendorb8d50b, // Sunitec Enterprise
 	"b8d526": vendorb8d526, // Zyxel Communications
 	"b8d56b": vendorb8d56b, // Mirka
+	"b8d5ad": vendorb8d5ad, // Nokia
 	"b8d61a": vendorb8d61a, // Espressif
 	"b8d6f6": vendorb8d6f6, // HUAWEI TECHNOLOGIES
 	"b8d7af": vendorb8d7af, // Murata Manufacturing
@@ -71112,6 +71344,7 @@ var ouis = map[string]string{
 	"bc671c": vendorbc671c, // Cisco Systems
 	"bc6778": vendorbc6778, // Apple
 	"bc6784": vendorbc6784, // Environics Oy
+	"bc68c3": vendorbc68c3, // HUAWEI TECHNOLOGIES
 	"bc69cb": vendorbc69cb, // Panasonic Electric Works Networks
 	"bc6a16": vendorbc6a16, // tdvine
 	"bc6a29": vendorbc6a29, // Texas Instruments
@@ -71131,6 +71364,7 @@ var ouis = map[string]string{
 	"bc73a4": vendorbc73a4, // ANDA TELECOM PVT
 	"bc744b": vendorbc744b, // Nintendo
 	"bc74d7": vendorbc74d7, // HangZhou JuRu Technology
+	"bc74ea": vendorbc74ea, // Apple
 	"bc7536": vendorbc7536, // ALPSALPINE CO,.
 	"bc7574": vendorbc7574, // HUAWEI TECHNOLOGIES
 	"bc7596": vendorbc7596, // Beijing Broadwit Technology
@@ -71262,6 +71496,7 @@ var ouis = map[string]string{
 	"bcc31b": vendorbcc31b, // Kygo Life A
 	"bcc342": vendorbcc342, // Panasonic Communications
 	"bcc427": vendorbcc427, // HUAWEI TECHNOLOGIES
+	"bcc436": vendorbcc436, // Nokia
 	"bcc493": vendorbcc493, // Cisco Systems
 	"bcc61a": vendorbcc61a, // SPECTRA EMBEDDED SYSTEMS
 	"bcc6db": vendorbcc6db, // Nokia
@@ -71403,6 +71638,7 @@ var ouis = map[string]string{
 	"c02c5c": vendorc02c5c, // Apple
 	"c02c7a": vendorc02c7a, // Shenzhen Horn Audio
 	"c02ced": vendorc02ced, // Silicon Laboratories
+	"c02d10": vendorc02d10, // MOHAN ELECTRONICS AND SYSTEMS
 	"c02d2e": vendorc02d2e, // China Mobile Group Device
 	"c02dee": vendorc02dee, // Cuff
 	"c02e1d": vendorc02e1d, // Nokia Solutions and Networks GmbH & Co. KG
@@ -71502,6 +71738,7 @@ var ouis = map[string]string{
 	"c068cc": vendorc068cc, // Shenzhen Skyworth Digital  Technology
 	"c06911": vendorc06911, // Arista Networks
 	"c06b55": vendorc06b55, // Motorola Mobility LLC, a Lenovo
+	"c06bc7": vendorc06bc7, // Gallagher Group
 	"c06c0c": vendorc06c0c, // Apple
 	"c06c0f": vendorc06c0f, // Dobbs Stanford
 	"c06c6d": vendorc06c6d, // MagneMotion
@@ -72132,6 +72369,7 @@ var ouis = map[string]string{
 	"c4f174": vendorc4f174, // eero
 	"c4f1d1": vendorc4f1d1, // BEIJING SOGOU TECHNOLOGY DEVELOPMENT
 	"c4f312": vendorc4f312, // Texas Instruments
+	"c4f445": vendorc4f445, // Apple
 	"c4f464": vendorc4f464, // Spica international
 	"c4f57c": vendorc4f57c, // Brocade Communications Systems
 	"c4f5a5": vendorc4f5a5, // Kumalift
@@ -72206,6 +72444,7 @@ var ouis = map[string]string{
 	"c82478": vendorc82478, // Edifier International
 	"c82496": vendorc82496, // Jiangsu Yinhe  Electronics
 	"c825e1": vendorc825e1, // Lemobile Information Technology (Beijing)
+	"c82691": vendorc82691, // Arista Networks
 	"c826e2": vendorc826e2, // CHINA DRAGON TECHNOLOGY
 	"c82832": vendorc82832, // Beijing Xiaomi Electronics
 	"c828e5": vendorc828e5, // Cisco Systems
@@ -72346,6 +72585,7 @@ var ouis = map[string]string{
 	"c8848c": vendorc8848c, // Ruckus Wireless
 	"c884a1": vendorc884a1, // Cisco Systems
 	"c884cf": vendorc884cf, // HUAWEI TECHNOLOGIES
+	"c88541": vendorc88541, // Espressif
 	"c88550": vendorc88550, // Apple
 	"c88629": vendorc88629, // Shenzhen Duubee Intelligent Technologies
 	"c88722": vendorc88722, // Lumenpulse
@@ -72461,6 +72701,7 @@ var ouis = map[string]string{
 	"c8c750": vendorc8c750, // Motorola Mobility LLC, a Lenovo
 	"c8c791": vendorc8c791, // Zero1.tv
 	"c8c83f": vendorc8c83f, // Texas Instruments
+	"c8c873": vendorc8c873, // CHIPSEN
 	"c8c9a3": vendorc8c9a3, // Espressif
 	"c8ca63": vendorc8ca63, // Huawei Device
 	"c8ca79": vendorc8ca79, // Ciena
@@ -72577,6 +72818,7 @@ var ouis = map[string]string{
 	"cc08fa": vendorcc08fa, // Apple
 	"cc08fb": vendorcc08fb, // TP-LINK TECHNOLOGIES
 	"cc09c8": vendorcc09c8, // IMAQLIQ
+	"cc0c9c": vendorcc0c9c, // CIG SHANGHAI
 	"cc0cda": vendorcc0cda, // Miljovakt AS
 	"cc0dcb": vendorcc0dcb, // Microsoft
 	"cc0de7": vendorcc0de7, // B METERS S.R.L.
@@ -72597,6 +72839,7 @@ var ouis = map[string]string{
 	"cc1be0": vendorcc1be0, // IEEE Registration Authority
 	"cc1e56": vendorcc1e56, // HUAWEI TECHNOLOGIES
 	"cc1e97": vendorcc1e97, // HUAWEI TECHNOLOGIES
+	"cc1eab": vendorcc1eab, // LEDATEL sp. z o.o. i Wspólnicy sp.k
 	"cc1eff": vendorcc1eff, // Metrological Group BV
 	"cc1fc4": vendorcc1fc4, // InVue
 	"cc208c": vendorcc208c, // HUAWEI TECHNOLOGIES
@@ -72628,6 +72871,7 @@ var ouis = map[string]string{
 	"cc2de0": vendorcc2de0, // Routerboard.com
 	"cc2f71": vendorcc2f71, // Intel Corporate
 	"cc3080": vendorcc3080, // VAIO
+	"cc3089": vendorcc3089, // Mellanox Technologies
 	"cc312a": vendorcc312a, // HUIZHOU TCL COMMUNICATION ELECTRON
 	"cc3296": vendorcc3296, // Huawei Device
 	"cc32e5": vendorcc32e5, // TP-LINK TECHNOLOGIES
@@ -72861,6 +73105,7 @@ var ouis = map[string]string{
 	"ccbd35": vendorccbd35, // Steinel
 	"ccbdd3": vendorccbdd3, // Ultimaker B.V.
 	"ccbe59": vendorccbe59, // Calix
+	"ccbe61": vendorccbe61, // Apple
 	"ccbe71": vendorccbe71, // OptiLogix BV
 	"ccbf0c": vendorccbf0c, // SHENZHEN FENDA TECHNOLOGY
 	"ccc079": vendorccc079, // Murata Manufacturing
@@ -72875,6 +73120,7 @@ var ouis = map[string]string{
 	"ccc5ef": vendorccc5ef, // Co-Comm Servicios Telecomunicaciones S.L.
 	"ccc62b": vendorccc62b, // Tri-Systems
 	"ccc760": vendorccc760, // Apple
+	"ccc837": vendorccc837, // Quectel Wireless Solutions
 	"ccc8d7": vendorccc8d7, // CIAS Elettronica srl
 	"ccc92c": vendorccc92c, // Schindler - PORT Technology
 	"ccc95d": vendorccc95d, // Apple
@@ -72959,6 +73205,7 @@ var ouis = map[string]string{
 	"ccf9f0": vendorccf9f0, // Samsung Electronics
 	"ccfa00": vendorccfa00, // LG Electronics (Mobile Communications)
 	"ccfa66": vendorccfa66, // Huawei Device
+	"ccfa95": vendorccfa95, // Honor Device
 	"ccfaf1": vendorccfaf1, // Sagemcom Broadband SAS
 	"ccfb65": vendorccfb65, // Nintendo
 	"ccfc6d": vendorccfc6d, // RIZ TRANSMITTERS
@@ -73195,6 +73442,7 @@ var ouis = map[string]string{
 	"d094cf": vendord094cf, // HUAWEI TECHNOLOGIES
 	"d095c7": vendord095c7, // Pantech
 	"d09686": vendord09686, // IEEE Registration Authority
+	"d096ea": vendord096ea, // vivo Mobile Communication
 	"d096fb": vendord096fb, // Zhone Technologies
 	"d097fe": vendord097fe, // Realme Chongqing Mobile Telecommunications
 	"d0989c": vendord0989c, // ConMet
@@ -73455,6 +73703,7 @@ var ouis = map[string]string{
 	"d4475a": vendord4475a, // ScreenBeam
 	"d4482d": vendord4482d, // Shenzhen Deejoy Lighting Technology
 	"d44867": vendord44867, // Silicon Laboratories
+	"d44a85": vendord44a85, // Silicon Laboratories
 	"d44b5e": vendord44b5e, // TAIYO YUDEN
 	"d44bb6": vendord44bb6, // Zhejiang Tmall Technology
 	"d44c24": vendord44c24, // Vuppalamritha Magnetic Components
@@ -73467,6 +73716,7 @@ var ouis = map[string]string{
 	"d44f67": vendord44f67, // HUAWEI TECHNOLOGIES
 	"d44f68": vendord44f68, // Eidetic Communications
 	"d44f80": vendord44f80, // Kemper Digital
+	"d45039": vendord45039, // Sagemcom Broadband SAS
 	"d4503f": vendord4503f, // GUANGDONG OPPO MOBILE TELECOMMUNICATIONS
 	"d4507a": vendord4507a, // CEIVA Logic
 	"d450ee": vendord450ee, // GD Midea Air-Conditioning Equipment
@@ -73514,6 +73764,7 @@ var ouis = map[string]string{
 	"d463fe": vendord463fe, // Arcadyan
 	"d464f7": vendord464f7, // CHENGDU USEE DIGITAL TECHNOLOGY
 	"d46624": vendord46624, // Cisco Systems
+	"d46663": vendord46663, // Shenzhen Detran Technology
 	"d466a8": vendord466a8, // Riedo Networks
 	"d46761": vendord46761, // XonTel Technology
 	"d467d3": vendord467d3, // GUANGDONG OPPO MOBILE TELECOMMUNICATIONS
@@ -73629,6 +73880,7 @@ var ouis = map[string]string{
 	"d49e6d": vendord49e6d, // Wuhan Zhongyuan Huadian Science & Technology Co.,
 	"d49f29": vendord49f29, // Fiberhome Telecommunication Technologies
 	"d49fdd": vendord49fdd, // Huawei Device
+	"d49ff9": vendord49ff9, // Earda Technologies
 	"d4a02a": vendord4a02a, // Cisco Systems
 	"d4a0fb": vendord4a0fb, // IEEE Registration Authority
 	"d4a148": vendord4a148, // HUAWEI TECHNOLOGIES
@@ -73697,6 +73949,7 @@ var ouis = map[string]string{
 	"d4ca6e": vendord4ca6e, // u-blox AG
 	"d4cbaf": vendord4cbaf, // Nokia
 	"d4cbcc": vendord4cbcc, // vivo Mobile Communication
+	"d4ce40": vendord4ce40, // Apple
 	"d4ceb8": vendord4ceb8, // Enatel
 	"d4cf37": vendord4cf37, // Symbolic IO
 	"d4cff9": vendord4cff9, // Shenzhen SEI Robotics
@@ -73935,6 +74188,7 @@ var ouis = map[string]string{
 	"d85b22": vendord85b22, // Shenzhen Hohunet Technology
 	"d85b27": vendord85b27, // WNC
 	"d85b2a": vendord85b2a, // Samsung Electronics
+	"d85c11": vendord85c11, // Optiview USA
 	"d85d4c": vendord85d4c, // TP-LINK TECHNOLOGIES
 	"d85d84": vendord85d84, // CAx soft
 	"d85de2": vendord85de2, // Hon Hai Precision Ind.
@@ -73946,6 +74200,7 @@ var ouis = map[string]string{
 	"d860b3": vendord860b3, // Guangdong Global Electronic Technology CO.，
 	"d86162": vendord86162, // WNC
 	"d86194": vendord86194, // Objetivos y Sevicios de Valor Añadido
+	"d862ca": vendord862ca, // Cisco Systems
 	"d862db": vendord862db, // Eno
 	"d8630d": vendord8630d, // Motorola (Wuhan) Mobility Technologies Communication
 	"d86375": vendord86375, // Xiaomi Communications
@@ -73999,6 +74254,7 @@ var ouis = map[string]string{
 	"d881ce": vendord881ce, // AHN
 	"d88332": vendord88332, // TaiXin Semiconductor
 	"d88466": vendord88466, // Extreme Networks Headquarters
+	"d8855e": vendord8855e, // zte
 	"d885ac": vendord885ac, // Espressif
 	"d8860b": vendord8860b, // IEEE Registration Authority
 	"d887d5": vendord887d5, // Leadcore Technology
@@ -74370,6 +74626,7 @@ var ouis = map[string]string{
 	"dc729b": vendordc729b, // HUAWEI TECHNOLOGIES
 	"dc7306": vendordc7306, // Vantiva Connected Home - Home Networks
 	"dc7385": vendordc7385, // Huawei Device
+	"dc73fc": vendordc73fc, // Mellanox Technologies
 	"dc74a8": vendordc74a8, // Samsung Electronics
 	"dc74ce": vendordc74ce, // ITOCHU Techno-Solutions
 	"dc76c3": vendordc76c3, // IEEE Registration Authority
@@ -74474,6 +74731,7 @@ var ouis = map[string]string{
 	"dcb7ac": vendordcb7ac, // Hewlett Packard Enterprise
 	"dcb7fc": vendordcb7fc, // Alps Electric (Ireland)
 	"dcb808": vendordcb808, // Extreme Networks Headquarters
+	"dcb87d": vendordcb87d, // Hewlett Packard Enterprise
 	"dcbb3d": vendordcbb3d, // Extreme Networks Headquarters
 	"dcbb96": vendordcbb96, // Full Solution Telecom
 	"dcbd7a": vendordcbd7a, // Guangzhou Shiyuan Electronic Technology Company
@@ -74787,6 +75045,7 @@ var ouis = map[string]string{
 	"e07f88": vendore07f88, // EVIDENCE Network SIA
 	"e0806b": vendore0806b, // Xiaomi Communications
 	"e08177": vendore08177, // GreenBytes
+	"e0830d": vendore0830d, // NOTTA PTE.
 	"e084f3": vendore084f3, // High Grade Controls
 	"e0854d": vendore0854d, // LG Innotek
 	"e0859a": vendore0859a, // SHENZHEN RF-LINK TECHNOLOGY
@@ -74918,6 +75177,7 @@ var ouis = map[string]string{
 	"e0d1e6": vendore0d1e6, // Aliph dba Jawbone
 	"e0d31a": vendore0d31a, // EQUES Technology
 	"e0d362": vendore0d362, // TP-Link Systems
+	"e0d38e": vendore0d38e, // Chipsea Technologies (Shenzhen) Crop.
 	"e0d3b4": vendore0d3b4, // Cisco Meraki
 	"e0d462": vendore0d462, // Huawei Device
 	"e0d464": vendore0d464, // Intel Corporate
@@ -74987,6 +75247,7 @@ var ouis = map[string]string{
 	"e0fff1": vendore0fff1, // Texas Instruments
 	"e0fff7": vendore0fff7, // Softiron
 	"e40177": vendore40177, // SafeOwl
+	"e40274": vendore40274, // FW Murphy Production Controls
 	"e4029b": vendore4029b, // Intel Corporate
 	"e40439": vendore40439, // TomTom Software
 	"e405f8": vendore405f8, // Bytedance
@@ -74995,6 +75256,7 @@ var ouis = map[string]string{
 	"e4072b": vendore4072b, // Huawei Device
 	"e408e7": vendore408e7, // Quectel Wireless Solutions
 	"e40a16": vendore40a16, // HUAWEI TECHNOLOGIES
+	"e40a75": vendore40a75, // Silicon Laboratories
 	"e40cfd": vendore40cfd, // GUANGDONG OPPO MOBILE TELECOMMUNICATIONS
 	"e40d36": vendore40d36, // Intel Corporate
 	"e40d3b": vendore40d3b, // Ericsson AB
@@ -75357,6 +75619,7 @@ var ouis = map[string]string{
 	"e4fae4": vendore4fae4, // Shenzhen SDMC Technology CP,.
 	"e4faed": vendore4faed, // Samsung Electronics
 	"e4fafd": vendore4fafd, // Intel Corporate
+	"e4fb1e": vendore4fb1e, // Microsoft
 	"e4fb5d": vendore4fb5d, // HUAWEI TECHNOLOGIES
 	"e4fb8f": vendore4fb8f, // MOBIWIRE MOBILES (NINGBO)
 	"e4fc82": vendore4fc82, // Juniper Networks
@@ -75421,6 +75684,7 @@ var ouis = map[string]string{
 	"e820e2": vendore820e2, // HUMAX
 	"e82281": vendore82281, // GD Midea Air-Conditioning Equipment
 	"e822b8": vendore822b8, // Shenzhen Skyworth Digital  Technology
+	"e823fb": vendore823fb, // Redder
 	"e82404": vendore82404, // Quectel Wireless Solutions
 	"e824a6": vendore824a6, // Juniper Networks
 	"e82587": vendore82587, // Shenzhen Chilink IoT Technology
@@ -75520,6 +75784,7 @@ var ouis = map[string]string{
 	"e865d4": vendore865d4, // Tenda Technology Co.,Ltd.Dongguan branch
 	"e866c4": vendore866c4, // Diamanti
 	"e86819": vendore86819, // HUAWEI TECHNOLOGIES
+	"e868b1": vendore868b1, // GUANGDONG OPPO MOBILE TELECOMMUNICATIONS
 	"e868e7": vendore868e7, // Espressif
 	"e86a64": vendore86a64, // LCFC(Hefei) Electronics Technology
 	"e86bea": vendore86bea, // Espressif
@@ -75576,6 +75841,7 @@ var ouis = map[string]string{
 	"e88e60": vendore88e60, // NSD
 	"e88f16": vendore88f16, // Skullcandy
 	"e88f6f": vendore88f6f, // TCT mobile
+	"e88f8e": vendore88f8e, // Hoags Technologies India Private
 	"e88fc4": vendore88fc4, // MOBIWIRE MOBILES(NINGBO)
 	"e8910f": vendore8910f, // Fiberhome Telecommunication Technologies
 	"e89120": vendore89120, // Motorola Mobility LLC, a Lenovo
@@ -75776,6 +76042,7 @@ var ouis = map[string]string{
 	"e8faf7": vendore8faf7, // Guangdong Uniteddata Holding Group
 	"e8fb1c": vendore8fb1c, // AzureWave Technology
 	"e8fbe9": vendore8fbe9, // Apple
+	"e8fc5f": vendore8fc5f, // Ruckus Wireless
 	"e8fc60": vendore8fc60, // ELCOM Innovations Private
 	"e8fcaf": vendore8fcaf, // NETGEAR
 	"e8fd35": vendore8fd35, // Huawei Device
@@ -75859,6 +76126,7 @@ var ouis = map[string]string{
 	"ec30dd": vendorec30dd, // eero
 	"ec3111": vendorec3111, // Sichuan AI-Link Technology
 	"ec314a": vendorec314a, // Chengdu Quanjing Intelligent Technology
+	"ec315f": vendorec315f, // Amazon Technologies
 	"ec316d": vendorec316d, // Hansgrohe
 	"ec34e2": vendorec34e2, // Private
 	"ec3532": vendorec3532, // Tactrix
@@ -75949,9 +76217,11 @@ var ouis = map[string]string{
 	"ec6cb5": vendorec6cb5, // zte
 	"ec6e79": vendorec6e79, // InHand Networks
 	"ec6f0b": vendorec6f0b, // FADU
+	"ec6ff9": vendorec6ff9, // Pioseed Technology(Chengdu)
 	"ec7097": vendorec7097, // Commscope
 	"ec71db": vendorec71db, // Reolink Innovation
 	"ec725b": vendorec725b, // zte
+	"ec72f7": vendorec72f7, // DJI BAIWANG TECHNOLOGY
 	"ec7359": vendorec7359, // Shenzhen Cloudsky Technologies
 	"ec7379": vendorec7379, // Apple
 	"ec73f6": vendorec73f6, // Sichuan AI-Link Technology
@@ -76066,6 +76336,7 @@ var ouis = map[string]string{
 	"ecb50a": vendorecb50a, // Quectel Wireless Solutions
 	"ecb541": vendorecb541, // SHINANO E and E
 	"ecb550": vendorecb550, // Samsung Electronics
+	"ecb5af": vendorecb5af, // RayService a.s.
 	"ecb5fa": vendorecb5fa, // Philips Lighting BV
 	"ecb870": vendorecb870, // Beijing Heweinet Technology
 	"ecb878": vendorecb878, // Huawei Device
@@ -76473,6 +76744,7 @@ var ouis = map[string]string{
 	"f0cce0": vendorf0cce0, // Shenzhen All-Smartlink Technology
 	"f0cd31": vendorf0cd31, // Samsung Electronics
 	"f0cf4d": vendorf0cf4d, // BitRecords
+	"f0d018": vendorf0d018, // Hewlett Packard Enterprise
 	"f0d08c": vendorf0d08c, // TCT mobile
 	"f0d14f": vendorf0d14f, // LINEAR
 	"f0d1a9": vendorf0d1a9, // Apple
@@ -76598,6 +76870,7 @@ var ouis = map[string]string{
 	"f41a79": vendorf41a79, // IEEE Registration Authority
 	"f41a9c": vendorf41a9c, // Xiaomi Communications
 	"f41ab0": vendorf41ab0, // Shenzhen Xingguodu Technology
+	"f41af7": vendorf41af7, // zte
 	"f41ba1": vendorf41ba1, // Apple
 	"f41c26": vendorf41c26, // AltoBeam
 	"f41c71": vendorf41c71, // SHENZHEN SANMU COMMUNICATION TECHNOLOGY
@@ -77007,11 +77280,13 @@ var ouis = map[string]string{
 	"f81a2b": vendorf81a2b, // Google
 	"f81a67": vendorf81a67, // TP-LINK TECHNOLOGIES
 	"f81b04": vendorf81b04, // Zhong Shan City Richsound Electronic Industrial
+	"f81b2e": vendorf81b2e, // G.Tech Technology
 	"f81ce5": vendorf81ce5, // Telefonbau Behnke
 	"f81d0f": vendorf81d0f, // Hitron Technologies.
 	"f81d78": vendorf81d78, // IEEE Registration Authority
 	"f81d90": vendorf81d90, // Solidwintech
 	"f81d93": vendorf81d93, // Longdhua(Beijing) Controls Technology
+	"f81e49": vendorf81e49, // Apple
 	"f81e6f": vendorf81e6f, // EBG compleo
 	"f81edf": vendorf81edf, // Apple
 	"f81f32": vendorf81f32, // Motorola Mobility LLC, a Lenovo
@@ -77314,6 +77589,7 @@ var ouis = map[string]string{
 	"f8ca59": vendorf8ca59, // NetComm Wireless
 	"f8ca85": vendorf8ca85, // NEC
 	"f8cab8": vendorf8cab8, // Dell
+	"f8cb15": vendorf8cb15, // Apple
 	"f8cc6e": vendorf8cc6e, // DEPO Electronics
 	"f8cdc8": vendorf8cdc8, // Sichuan Tianyi Comheart Telecom
 	"f8ce07": vendorf8ce07, // ZHEJIANG DAHUA TECHNOLOGY
@@ -77349,6 +77625,7 @@ var ouis = map[string]string{
 	"f8df15": vendorf8df15, // Sunitec Enterprise
 	"f8dfa8": vendorf8dfa8, // zte
 	"f8dfe1": vendorf8dfe1, // MyLight Systems
+	"f8e000": vendorf8e000, // FUJI ELECTRIC
 	"f8e079": vendorf8e079, // Motorola Mobility LLC, a Lenovo
 	"f8e252": vendorf8e252, // Apple
 	"f8e35f": vendorf8e35f, // Sichuan Tianyi Comheart Telecom
@@ -77769,6 +78046,7 @@ var ouis = map[string]string{
 	"fce23f": vendorfce23f, // CLAY PAKY SPA
 	"fce26c": vendorfce26c, // Apple
 	"fce33c": vendorfce33c, // HUAWEI TECHNOLOGIES
+	"fce421": vendorfce421, // zhejiang Dusun Electron
 	"fce498": vendorfce498, // IEEE Registration Authority
 	"fce557": vendorfce557, // Nokia
 	"fce66a": vendorfce66a, // Industrial Software
